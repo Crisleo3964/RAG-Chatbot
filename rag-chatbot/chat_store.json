@@ -1,0 +1,3157 @@
+{
+  "sessions": {
+    "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2": {
+      "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about the system",
+      "created_at": "2026-06-22T05:58:19.116643+00:00",
+      "updated_at": "2026-06-22T07:21:23.246595+00:00"
+    },
+    "2a5f630d-a627-4151-9449-9d4290417e77": {
+      "session_id": "2a5f630d-a627-4151-9449-9d4290417e77",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "who is albert einstein",
+      "created_at": "2026-06-22T09:40:44.182407+00:00",
+      "updated_at": "2026-06-22T09:41:04.013318+00:00"
+    },
+    "fb7ad41b-d169-4d27-a98e-2f7aefd93463": {
+      "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "what is Empirical analysis",
+      "created_at": "2026-06-22T09:42:18.572103+00:00",
+      "updated_at": "2026-06-22T10:09:07.588575+00:00"
+    },
+    "e5f02cec-abe3-4138-92dc-38823ba2c942": {
+      "session_id": "e5f02cec-abe3-4138-92dc-38823ba2c942",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about covid",
+      "created_at": "2026-06-22T10:12:07.870366+00:00",
+      "updated_at": "2026-06-22T10:12:10.836073+00:00"
+    },
+    "4033f3ad-73b9-4653-ba0b-3166ecf83f50": {
+      "session_id": "4033f3ad-73b9-4653-ba0b-3166ecf83f50",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about python",
+      "created_at": "2026-06-22T10:46:07.993553+00:00",
+      "updated_at": "2026-06-22T11:03:18.567036+00:00"
+    },
+    "99d76451-953b-4bbb-9124-a21f36a9e7c6": {
+      "session_id": "99d76451-953b-4bbb-9124-a21f36a9e7c6",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about python",
+      "created_at": "2026-06-22T10:57:22.520748+00:00",
+      "updated_at": "2026-06-22T10:57:22.529477+00:00"
+    },
+    "bfb60648-be17-4038-9eab-6a2d050372db": {
+      "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "covuid 19",
+      "created_at": "2026-06-22T11:17:49.055927+00:00",
+      "updated_at": "2026-06-23T06:10:01.910641+00:00"
+    },
+    "b6814491-5d55-49c3-ad91-752cdb056a14": {
+      "session_id": "b6814491-5d55-49c3-ad91-752cdb056a14",
+      "user_id": "453c7ba4-3ea1-4dd5-ae9a-bd6584e07251",
+      "title": "hello",
+      "created_at": "2026-06-23T06:10:57.902477+00:00",
+      "updated_at": "2026-06-23T06:11:00.012345+00:00"
+    },
+    "1751523c-30b7-4963-8e24-64b5e2fc85cb": {
+      "session_id": "1751523c-30b7-4963-8e24-64b5e2fc85cb",
+      "user_id": "453c7ba4-3ea1-4dd5-ae9a-bd6584e07251",
+      "title": "hello",
+      "created_at": "2026-06-23T06:11:06.997585+00:00",
+      "updated_at": "2026-06-23T06:11:09.095478+00:00"
+    },
+    "05d98514-6397-474c-bf23-6c7f0c512bdf": {
+      "session_id": "05d98514-6397-474c-bf23-6c7f0c512bdf",
+      "user_id": "453c7ba4-3ea1-4dd5-ae9a-bd6584e07251",
+      "title": "hello",
+      "created_at": "2026-06-23T06:11:16.681689+00:00",
+      "updated_at": "2026-06-23T06:11:18.800626+00:00"
+    },
+    "45034c4b-5a48-4e13-a1dd-3e433c5bf0b4": {
+      "session_id": "45034c4b-5a48-4e13-a1dd-3e433c5bf0b4",
+      "user_id": "453c7ba4-3ea1-4dd5-ae9a-bd6584e07251",
+      "title": "hello",
+      "created_at": "2026-06-23T06:11:27.439634+00:00",
+      "updated_at": "2026-06-23T06:11:29.534938+00:00"
+    },
+    "06fb8217-f4c5-4c14-86ac-9908fa237030": {
+      "session_id": "06fb8217-f4c5-4c14-86ac-9908fa237030",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about covid 19",
+      "created_at": "2026-06-23T06:18:58.212346+00:00",
+      "updated_at": "2026-06-23T06:21:11.074048+00:00"
+    },
+    "6e76c120-5b77-47bd-921e-641d9a8cfb49": {
+      "session_id": "6e76c120-5b77-47bd-921e-641d9a8cfb49",
+      "user_id": "453c7ba4-3ea1-4dd5-ae9a-bd6584e07251",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:22:19.703567+00:00",
+      "updated_at": "2026-06-23T06:22:21.817603+00:00"
+    },
+    "fa74791c-816e-4886-bff6-3c95a87b8b26": {
+      "session_id": "fa74791c-816e-4886-bff6-3c95a87b8b26",
+      "user_id": "4316c138-cce6-410b-a206-be25cae34097",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:22:36.858560+00:00",
+      "updated_at": "2026-06-23T06:22:40.009259+00:00"
+    },
+    "28356b17-33ca-448c-a7db-71f29e1097f5": {
+      "session_id": "28356b17-33ca-448c-a7db-71f29e1097f5",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "hello",
+      "created_at": "2026-06-23T06:27:18.605439+00:00",
+      "updated_at": "2026-06-23T06:27:20.709453+00:00"
+    },
+    "208a0fb5-9e50-47dd-99cd-a2115b77b31e": {
+      "session_id": "208a0fb5-9e50-47dd-99cd-a2115b77b31e",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "what is this document about?",
+      "created_at": "2026-06-23T06:27:22.844255+00:00",
+      "updated_at": "2026-06-23T06:27:24.944736+00:00"
+    },
+    "f2b2919b-d576-42ff-8f93-37da403033c2": {
+      "session_id": "f2b2919b-d576-42ff-8f93-37da403033c2",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "What is this document about?",
+      "created_at": "2026-06-23T06:29:18.707185+00:00",
+      "updated_at": "2026-06-23T06:29:18.713523+00:00"
+    },
+    "f2338f46-61f6-4d63-94e6-d8173e7629f1": {
+      "session_id": "f2338f46-61f6-4d63-94e6-d8173e7629f1",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "What is this document about?",
+      "created_at": "2026-06-23T06:30:17.000524+00:00",
+      "updated_at": "2026-06-23T06:30:17.006171+00:00"
+    },
+    "2ed1fc67-873f-4067-86ef-31618e211f92": {
+      "session_id": "2ed1fc67-873f-4067-86ef-31618e211f92",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "What is this document about?",
+      "created_at": "2026-06-23T06:30:31.831275+00:00",
+      "updated_at": "2026-06-23T06:30:31.836703+00:00"
+    },
+    "1d881acf-b5ef-48f5-9839-f96be30369c6": {
+      "session_id": "1d881acf-b5ef-48f5-9839-f96be30369c6",
+      "user_id": "4316c138-cce6-410b-a206-be25cae34097",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:31:18.274535+00:00",
+      "updated_at": "2026-06-23T06:31:21.500538+00:00"
+    },
+    "e41ad26c-1e92-46da-acee-a9da669956ce": {
+      "session_id": "e41ad26c-1e92-46da-acee-a9da669956ce",
+      "user_id": "711c8d2e-6c4e-45e6-8efa-6bfc7e197c5d",
+      "title": "What is this document about?",
+      "created_at": "2026-06-23T06:31:31.997438+00:00",
+      "updated_at": "2026-06-23T06:31:34.821409+00:00"
+    },
+    "660053e8-b56d-4bd8-a1a1-b012daea9d34": {
+      "session_id": "660053e8-b56d-4bd8-a1a1-b012daea9d34",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:49:39.393536+00:00",
+      "updated_at": "2026-06-23T06:49:42.894053+00:00"
+    },
+    "70c7373b-7009-4ea1-95ef-6b231154d1e6": {
+      "session_id": "70c7373b-7009-4ea1-95ef-6b231154d1e6",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is this document about?",
+      "created_at": "2026-06-23T06:54:45.350436+00:00",
+      "updated_at": "2026-06-23T06:54:52.918389+00:00"
+    },
+    "adda1605-63be-48f0-b9b3-384ecbf4038f": {
+      "session_id": "adda1605-63be-48f0-b9b3-384ecbf4038f",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:55:27.216234+00:00",
+      "updated_at": "2026-06-23T06:55:30.280732+00:00"
+    },
+    "c432f067-4206-4e93-803e-3c76a8c1df3d": {
+      "session_id": "c432f067-4206-4e93-803e-3c76a8c1df3d",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T06:57:44.554063+00:00",
+      "updated_at": "2026-06-23T06:57:44.563726+00:00"
+    },
+    "e2de107b-ba9e-4edf-91a7-f9e0d491f536": {
+      "session_id": "e2de107b-ba9e-4edf-91a7-f9e0d491f536",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T07:05:16.422412+00:00",
+      "updated_at": "2026-06-23T07:05:19.850274+00:00"
+    },
+    "c5090c46-dbdb-420d-ab9a-986272d9eb31": {
+      "session_id": "c5090c46-dbdb-420d-ab9a-986272d9eb31",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "How do I write a for loop in Python?",
+      "created_at": "2026-06-23T07:05:19.863242+00:00",
+      "updated_at": "2026-06-23T07:05:22.500123+00:00"
+    },
+    "6d4073f1-632d-43b2-876f-0737cd66731c": {
+      "session_id": "6d4073f1-632d-43b2-876f-0737cd66731c",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "wmnds",
+      "created_at": "2026-06-23T07:12:01.165503+00:00",
+      "updated_at": "2026-06-23T07:12:01.172493+00:00"
+    },
+    "b54e3dbd-9038-463e-89eb-817edf4d00ec": {
+      "session_id": "b54e3dbd-9038-463e-89eb-817edf4d00ec",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T07:13:26.943774+00:00",
+      "updated_at": "2026-06-23T07:13:30.169579+00:00"
+    },
+    "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd": {
+      "session_id": "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about covid",
+      "created_at": "2026-06-23T07:16:32.538184+00:00",
+      "updated_at": "2026-06-23T07:16:42.561597+00:00"
+    },
+    "9db246bb-6584-44f7-91ca-cdd1667fd55a": {
+      "session_id": "9db246bb-6584-44f7-91ca-cdd1667fd55a",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "What is the impact of COVID-19 on students?",
+      "created_at": "2026-06-23T07:20:59.277729+00:00",
+      "updated_at": "2026-06-23T07:21:02.274956+00:00"
+    },
+    "813c4073-e6d0-44ba-ac08-df18f0d13caf": {
+      "session_id": "813c4073-e6d0-44ba-ac08-df18f0d13caf",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "impact of covid",
+      "created_at": "2026-06-23T07:28:50.865517+00:00",
+      "updated_at": "2026-06-23T07:28:54.109949+00:00"
+    },
+    "51cb22bc-8bfe-4953-805d-d0be98056beb": {
+      "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "langchain",
+      "created_at": "2026-06-23T07:47:02.465115+00:00",
+      "updated_at": "2026-06-23T07:47:40.876509+00:00"
+    },
+    "0178ae59-b18e-4d90-9493-fc5dda8c142a": {
+      "session_id": "0178ae59-b18e-4d90-9493-fc5dda8c142a",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "python",
+      "created_at": "2026-06-23T09:39:18.228910+00:00",
+      "updated_at": "2026-06-23T09:39:22.371644+00:00"
+    },
+    "ec5b2d19-1bbd-4383-9fee-e6a2c86e96a0": {
+      "session_id": "ec5b2d19-1bbd-4383-9fee-e6a2c86e96a0",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "give me print syntax",
+      "created_at": "2026-06-23T10:01:22.892117+00:00",
+      "updated_at": "2026-06-23T10:01:27.391470+00:00"
+    },
+    "19ab1214-f458-4a3f-8f4f-89001efb1a68": {
+      "session_id": "19ab1214-f458-4a3f-8f4f-89001efb1a68",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "what is python",
+      "created_at": "2026-06-23T12:01:17.231689+00:00",
+      "updated_at": "2026-06-23T12:01:22.379972+00:00"
+    },
+    "5db6dd1a-ac79-466b-9d6c-718c585f53fd": {
+      "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about my resume",
+      "created_at": "2026-06-24T09:58:38.738305+00:00",
+      "updated_at": "2026-06-24T10:44:43.591433+00:00"
+    },
+    "2384b088-3816-4fec-8dc4-7e82d54175c2": {
+      "session_id": "2384b088-3816-4fec-8dc4-7e82d54175c2",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "explain aaryaman chauhan resume",
+      "created_at": "2026-06-24T10:45:06.185133+00:00",
+      "updated_at": "2026-06-24T10:45:09.061935+00:00"
+    },
+    "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403": {
+      "session_id": "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about the resume",
+      "created_at": "2026-06-24T11:05:31.665967+00:00",
+      "updated_at": "2026-06-24T11:08:32.489117+00:00"
+    },
+    "46367462-8b08-40c9-8626-dabb09a5ba1e": {
+      "session_id": "46367462-8b08-40c9-8626-dabb09a5ba1e",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "summarize the resume",
+      "created_at": "2026-06-24T11:24:09.232017+00:00",
+      "updated_at": "2026-06-24T11:24:09.239727+00:00"
+    },
+    "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887": {
+      "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "summarize the resume",
+      "created_at": "2026-06-24T11:32:06.201371+00:00",
+      "updated_at": "2026-06-24T11:33:19.417194+00:00"
+    },
+    "51b75fb9-463a-4b2b-86f8-79a64c38fb69": {
+      "session_id": "51b75fb9-463a-4b2b-86f8-79a64c38fb69",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "summarize the resume",
+      "created_at": "2026-06-24T11:43:40.148630+00:00",
+      "updated_at": "2026-06-24T11:43:43.534628+00:00"
+    },
+    "7ad155e8-336b-4082-b876-3a4e29fe19b2": {
+      "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "syntax in python",
+      "created_at": "2026-06-24T11:53:05.490524+00:00",
+      "updated_at": "2026-06-24T11:54:33.161050+00:00"
+    },
+    "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b": {
+      "session_id": "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "covid 19",
+      "created_at": "2026-06-24T11:54:38.318314+00:00",
+      "updated_at": "2026-06-24T11:55:41.462219+00:00"
+    },
+    "f2f3c308-f0a9-4c6c-8ce3-3d98b95d28c4": {
+      "session_id": "f2f3c308-f0a9-4c6c-8ce3-3d98b95d28c4",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "covid 19",
+      "created_at": "2026-06-24T12:03:36.386884+00:00",
+      "updated_at": "2026-06-24T12:03:39.285483+00:00"
+    },
+    "c0438318-0730-40dc-b5fa-15bd0f68a71d": {
+      "session_id": "c0438318-0730-40dc-b5fa-15bd0f68a71d",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "resume",
+      "created_at": "2026-06-24T12:03:50.909526+00:00",
+      "updated_at": "2026-06-24T12:03:53.009374+00:00"
+    },
+    "44ea996a-0fd1-4ac6-b883-6181183fbcfe": {
+      "session_id": "44ea996a-0fd1-4ac6-b883-6181183fbcfe",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "resume",
+      "created_at": "2026-06-24T12:05:03.787240+00:00",
+      "updated_at": "2026-06-24T12:05:05.893108+00:00"
+    },
+    "292e80d9-8f43-409f-9795-d118538cb91d": {
+      "session_id": "292e80d9-8f43-409f-9795-d118538cb91d",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "resume",
+      "created_at": "2026-06-24T12:05:17.331476+00:00",
+      "updated_at": "2026-06-24T12:05:19.428974+00:00"
+    },
+    "3b73de33-7bb8-41de-8677-ecd7cecea86c": {
+      "session_id": "3b73de33-7bb8-41de-8677-ecd7cecea86c",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "summarize the doc",
+      "created_at": "2026-06-24T12:05:55.527350+00:00",
+      "updated_at": "2026-06-24T12:05:55.536825+00:00"
+    },
+    "e7f97eb8-b4c0-4674-812f-f613bab1caf1": {
+      "session_id": "e7f97eb8-b4c0-4674-812f-f613bab1caf1",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "resume summarize",
+      "created_at": "2026-06-24T12:09:00.687357+00:00",
+      "updated_at": "2026-06-24T12:17:07.950491+00:00"
+    },
+    "663194b9-9b30-4435-a258-02858f44ca01": {
+      "session_id": "663194b9-9b30-4435-a258-02858f44ca01",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "covid 19",
+      "created_at": "2026-06-24T12:31:40.713231+00:00",
+      "updated_at": "2026-06-24T12:32:05.789870+00:00"
+    },
+    "8e71af0d-d37b-4c89-b20b-8f846a4cd83f": {
+      "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "python",
+      "created_at": "2026-06-24T12:33:51.783877+00:00",
+      "updated_at": "2026-06-24T12:55:03.612248+00:00"
+    },
+    "04129476-7349-4064-baaf-78f580d6524e": {
+      "session_id": "04129476-7349-4064-baaf-78f580d6524e",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "quantity of monitors",
+      "created_at": "2026-06-25T07:16:23.788025+00:00",
+      "updated_at": "2026-06-25T07:16:27.673050+00:00"
+    },
+    "566a9963-b4af-4e6b-91c3-895c2d733080": {
+      "session_id": "566a9963-b4af-4e6b-91c3-895c2d733080",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "explain RAG",
+      "created_at": "2026-06-26T05:52:39.446541+00:00",
+      "updated_at": "2026-06-26T05:52:42.357840+00:00"
+    },
+    "fbf8bdb1-74a0-4bd0-8b61-37bdb15a1efc": {
+      "session_id": "fbf8bdb1-74a0-4bd0-8b61-37bdb15a1efc",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "C",
+      "created_at": "2026-06-26T06:05:51.674142+00:00",
+      "updated_at": "2026-06-26T06:05:53.833453+00:00"
+    },
+    "d2df8251-8200-48ed-96ca-6a51f99cf1cb": {
+      "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "c",
+      "created_at": "2026-06-26T06:27:45.856894+00:00",
+      "updated_at": "2026-06-26T06:33:15.867000+00:00"
+    },
+    "4ddac70f-d709-42c9-a96f-805bf1137807": {
+      "session_id": "4ddac70f-d709-42c9-a96f-805bf1137807",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "C SYNTAX",
+      "created_at": "2026-06-26T07:33:50.945531+00:00",
+      "updated_at": "2026-06-26T07:33:57.589097+00:00"
+    },
+    "db854ff4-a7a5-433f-9834-4e614bf0e973": {
+      "session_id": "db854ff4-a7a5-433f-9834-4e614bf0e973",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "c syntax",
+      "created_at": "2026-06-26T07:38:24.643593+00:00",
+      "updated_at": "2026-06-26T07:38:27.777233+00:00"
+    }
+  },
+  "messages": {
+    "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2": [
+      {
+        "message_id": "ec505a03-4c37-490f-a14d-5192f8438197",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "tell me about the system",
+        "sources": null,
+        "created_at": "2026-06-22T05:58:19.118011+00:00"
+      },
+      {
+        "message_id": "089429f4-8922-4822-b4cf-dfa2f263ce65",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "The information about the system is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 3
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 18
+          }
+        ],
+        "created_at": "2026-06-22T05:58:22.735560+00:00"
+      },
+      {
+        "message_id": "cced7ad7-845f-4a23-8552-084c4aca4ba6",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "tell me about the paper",
+        "sources": null,
+        "created_at": "2026-06-22T05:58:33.952941+00:00"
+      },
+      {
+        "message_id": "955d53b2-54ca-4c8b-9c98-3fe055a0b4c5",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "The paper is titled \"THE IMPACT OF COVID-19 ON STUDENT EXPERIENCES AND EXPECTATIONS: EVIDENCE FROM A SURVEY\" and is a working paper (number 27392) from the National Bureau of Economic Research (NBER). The authors are Esteban M. Aucejo, Jacob F. French, Maria Paola Ugalde Araya, and Basit Zafar. It was published in June 2020. The paper is available for discussion and comment purposes, but it has not been peer-reviewed or officially published by the NBER.",
+        "sources": [
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 5
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-22T05:58:37.015469+00:00"
+      },
+      {
+        "message_id": "0561e152-91ca-4d40-89c7-face6c2e1554",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "how does covid 19 impact students",
+        "sources": null,
+        "created_at": "2026-06-22T05:58:48.179685+00:00"
+      },
+      {
+        "message_id": "98038ecb-8ab7-4b4d-9798-ac32fdfc47de",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 has had a significant impact on students, including:\n\n1. Delayed graduation: 13% of students have delayed graduation due to COVID-19.\n2. Job and internship losses: 40% of students lost a job, internship, or job offer due to COVID-19.\n3. Reduced expected earnings: 29% of students expect to earn less at age 35 due to COVID-19.\n4. Changes in study time: One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week.\n5. Disruption to academic experiences: COVID-19 has represented a substantial disruption to students' academic experiences, likely to have lasting impacts through changes in major/career and delayed graduation timelines.\n6. Negative experiences with online teaching: Students' negative experiences with online teaching may also impact their willingness to take online classes in the future.\n7. Disruption to labor market outcomes: COVID-19 has substantially disrupted students' current and expected labor market outcomes.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 9
+          }
+        ],
+        "created_at": "2026-06-22T05:58:51.552420+00:00"
+      },
+      {
+        "message_id": "4cc42e2b-d973-484d-a1a0-a720c1d8abae",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "what is the sample group here",
+        "sources": null,
+        "created_at": "2026-06-22T05:59:21.057694+00:00"
+      },
+      {
+        "message_id": "604712ad-6448-4fcd-b90c-3587fe064efa",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "The information about the specific sample group is not explicitly stated in the provided context, but it appears to be related to students, possibly from different universities, including ASU (Arizona State University) and other top-10 universities, as well as honors students.",
+        "sources": [
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 1
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 18
+          }
+        ],
+        "created_at": "2026-06-22T05:59:23.896121+00:00"
+      },
+      {
+        "message_id": "ca98ed2f-9d75-446c-a260-2b595195842a",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "whats the bright side of it",
+        "sources": null,
+        "created_at": "2026-06-22T07:20:51.919639+00:00"
+      },
+      {
+        "message_id": "6158e7fa-db18-41e8-b278-e5d267cc2157",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents. The context only discusses the impact of COVID-19 on students' GPA and graduation plans, as well as the methodology used to estimate subjective expected treatment effects, but does not mention a \"bright side\" of the situation.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 20
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-22T07:20:56.231136+00:00"
+      },
+      {
+        "message_id": "679089f6-2b69-43f8-a70c-e1b3909f62f2",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "user",
+        "content": "hwats the impact",
+        "sources": null,
+        "created_at": "2026-06-22T07:21:20.308588+00:00"
+      },
+      {
+        "message_id": "e970dbe2-55c3-412c-80c6-df35a07c5d00",
+        "session_id": "9dc35a94-cd6d-4bd4-8fb6-f0a27dfeeff2",
+        "role": "assistant",
+        "content": "The information available in the provided documents indicates that both financial and health shocks are significant predictors of the COVID-19 effects on students' outcomes. The documents mention that F-tests show the financial and health shock proxies are jointly significant across almost all specifications, and this is also reflected in the statistical significance of the principal components. However, the exact impact is not quantitatively specified in the provided context.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 13
+          }
+        ],
+        "created_at": "2026-06-22T07:21:23.246595+00:00"
+      }
+    ],
+    "2a5f630d-a627-4151-9449-9d4290417e77": [
+      {
+        "message_id": "555d07ad-1c88-4e36-8824-c52302bdcbcd",
+        "session_id": "2a5f630d-a627-4151-9449-9d4290417e77",
+        "role": "user",
+        "content": "who is albert einstein",
+        "sources": null,
+        "created_at": "2026-06-22T09:40:44.185440+00:00"
+      },
+      {
+        "message_id": "0803a799-80ce-4a9b-980c-808c1aec2ba7",
+        "session_id": "2a5f630d-a627-4151-9449-9d4290417e77",
+        "role": "assistant",
+        "content": "The information about Albert Einstein is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 1
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-22T09:40:47.247716+00:00"
+      },
+      {
+        "message_id": "37488d3a-e7c3-4bab-bb68-20c03a5e9933",
+        "session_id": "2a5f630d-a627-4151-9449-9d4290417e77",
+        "role": "user",
+        "content": "impact of covid?",
+        "sources": null,
+        "created_at": "2026-06-22T09:41:00.894739+00:00"
+      },
+      {
+        "message_id": "f55c5a6a-fa1f-4723-96f9-73268d3523f3",
+        "session_id": "2a5f630d-a627-4151-9449-9d4290417e77",
+        "role": "assistant",
+        "content": "The impact of COVID-19 on students includes: \n\n- 13% of students have delayed graduation\n- 40% lost a job, internship, or a job offer\n- 29% expect to earn less at age 35\n- One quarter of students increased their study time by more than 4 hours per week\n- Another quarter decreased their study time by more than 5 hours per week\n\nAdditionally, nonwhite students are 70% more likely to report changing their major choice, and first-generation students are 50% more likely to delay their graduation.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 10
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 10
+          }
+        ],
+        "created_at": "2026-06-22T09:41:04.013318+00:00"
+      }
+    ],
+    "fb7ad41b-d169-4d27-a98e-2f7aefd93463": [
+      {
+        "message_id": "1fe19fca-981e-48a8-ad3f-5b73e3bd5696",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "user",
+        "content": "what is Empirical analysis",
+        "sources": null,
+        "created_at": "2026-06-22T09:42:18.576556+00:00"
+      },
+      {
+        "message_id": "6b04dd9a-31ae-4944-9e8e-05005f6f7a28",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 3
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 7
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 7
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 7
+          }
+        ],
+        "created_at": "2026-06-22T09:42:21.336897+00:00"
+      },
+      {
+        "message_id": "60a83b86-b78d-4244-b16e-f38cb9ae58d3",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "user",
+        "content": "covid 19 impact on economy",
+        "sources": null,
+        "created_at": "2026-06-22T09:43:58.246751+00:00"
+      },
+      {
+        "message_id": "5b4acd1f-d765-4045-a379-0e7cb208801a",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 has imposed an economic burden, and the economic and health-related shocks induced by the pandemic vary systematically by socioeconomic factors. Additionally, lower-income students are 55% more likely to have delayed graduation due to COVID-19 than their higher-income peers, indicating a disproportionate economic impact on lower-income individuals.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-22T09:44:01.783927+00:00"
+      },
+      {
+        "message_id": "05ba508f-8524-4add-8b02-487d0b5b89db",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "user",
+        "content": "python language?",
+        "sources": null,
+        "created_at": "2026-06-22T09:44:33.895760+00:00"
+      },
+      {
+        "message_id": "4897620d-d8fd-4821-86d9-28c683feeaee",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 5
+          },
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 24
+          }
+        ],
+        "created_at": "2026-06-22T09:44:36.342179+00:00"
+      },
+      {
+        "message_id": "69954122-6499-4b96-8267-60b89685d6d4",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "user",
+        "content": "what is list comprehension",
+        "sources": null,
+        "created_at": "2026-06-22T09:44:51.303364+00:00"
+      },
+      {
+        "message_id": "9c095101-af53-472d-87d3-31fc1c3009b6",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 4
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 5
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 2
+          },
+          {
+            "document": "5c22308d-200b-4dd3-9e12-59344592178f_sample-pdf-legal-size.pdf",
+            "page": 3
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-22T09:44:53.904432+00:00"
+      },
+      {
+        "message_id": "04986005-6faf-4ecb-88b8-75657e795c50",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "user",
+        "content": "what about covid",
+        "sources": null,
+        "created_at": "2026-06-22T10:09:03.989178+00:00"
+      },
+      {
+        "message_id": "6a6702d4-9ddf-45f5-bbf7-d3cf3aa9d58c",
+        "session_id": "fb7ad41b-d169-4d27-a98e-2f7aefd93463",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 is expected to impact job market outcomes for students, with those expecting to graduate in 2021 and later still believing it will have an effect. Students planning to graduate in 2023 expect to be 6 percentage points less likely to find a job before graduating due to COVID-19. The pandemic is described as both an economic and a health shock, with heterogeneous effects across different groups.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "2595f061-2469-405f-91db-6b352da30dd3_w27392 (1).pdf",
+            "page": 12
+          },
+          {
+            "document": "50866e24-326a-4fb0-896f-9ab3250a2424_w27392 (1).pdf",
+            "page": 12
+          }
+        ],
+        "created_at": "2026-06-22T10:09:07.588575+00:00"
+      }
+    ],
+    "e5f02cec-abe3-4138-92dc-38823ba2c942": [
+      {
+        "message_id": "5d62e806-c3fa-4cbe-a1b9-4876a2ed3a99",
+        "session_id": "e5f02cec-abe3-4138-92dc-38823ba2c942",
+        "role": "user",
+        "content": "tell me about covid",
+        "sources": null,
+        "created_at": "2026-06-22T10:12:07.874371+00:00"
+      },
+      {
+        "message_id": "3e11516d-b3a0-47f9-9b83-84fd9435ff9e",
+        "session_id": "e5f02cec-abe3-4138-92dc-38823ba2c942",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 is believed to impact job market outcomes for students expecting to graduate in 2021 and later. Students who plan to graduate in 2023 expect to be 6 percentage points less likely to find a job before graduating due to COVID-19. The pandemic serves as both an economic and a health shock, with heterogeneous effects across different groups. The documents also mention that financial and health shocks due to COVID-19 are being proxied by a small set of exogenous/predetermined variables for mediation analysis.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "2595f061-2469-405f-91db-6b352da30dd3_w27392 (1).pdf",
+            "page": 12
+          },
+          {
+            "document": "50866e24-326a-4fb0-896f-9ab3250a2424_w27392 (1).pdf",
+            "page": 12
+          }
+        ],
+        "created_at": "2026-06-22T10:12:10.836073+00:00"
+      }
+    ],
+    "4033f3ad-73b9-4653-ba0b-3166ecf83f50": [
+      {
+        "message_id": "6ca9e213-2340-40a9-864c-6150c28fc232",
+        "session_id": "4033f3ad-73b9-4653-ba0b-3166ecf83f50",
+        "role": "user",
+        "content": "tell me about python",
+        "sources": null,
+        "created_at": "2026-06-22T10:46:07.997587+00:00"
+      },
+      {
+        "message_id": "71f24245-8c3b-4ea3-85de-f6c9f7bccb33",
+        "session_id": "4033f3ad-73b9-4653-ba0b-3166ecf83f50",
+        "role": "assistant",
+        "content": "The information about Python is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "da1628f8-9671-4d02-8ba6-1988ec0f4da8_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "fb91a093-7e94-4a78-86a2-576744e68c01_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2595f061-2469-405f-91db-6b352da30dd3_w27392 (1).pdf",
+            "page": 2
+          },
+          {
+            "document": "50866e24-326a-4fb0-896f-9ab3250a2424_w27392 (1).pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-22T10:46:10.663328+00:00"
+      },
+      {
+        "message_id": "acc93d9f-dbee-4627-98cc-3d3af66d2a26",
+        "session_id": "4033f3ad-73b9-4653-ba0b-3166ecf83f50",
+        "role": "user",
+        "content": "tell me about python",
+        "sources": null,
+        "created_at": "2026-06-22T10:59:07.923821+00:00"
+      },
+      {
+        "message_id": "9270de14-a231-4930-bdc8-fd3034463be3",
+        "session_id": "4033f3ad-73b9-4653-ba0b-3166ecf83f50",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-22T11:03:18.567036+00:00"
+      }
+    ],
+    "99d76451-953b-4bbb-9124-a21f36a9e7c6": [
+      {
+        "message_id": "3ec8620f-4ee2-44da-be16-cf19572c4d9d",
+        "session_id": "99d76451-953b-4bbb-9124-a21f36a9e7c6",
+        "role": "user",
+        "content": "tell me about python",
+        "sources": null,
+        "created_at": "2026-06-22T10:57:22.529477+00:00"
+      }
+    ],
+    "bfb60648-be17-4038-9eab-6a2d050372db": [
+      {
+        "message_id": "beee627d-9dc8-45b7-9d5a-a9481cbba5f1",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "user",
+        "content": "covuid 19",
+        "sources": null,
+        "created_at": "2026-06-22T11:17:49.063052+00:00"
+      },
+      {
+        "message_id": "f87eb637-8464-4070-afa8-c9ff06c599bc",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "assistant",
+        "content": "The information available in the provided documents related to \"COVID-19\" includes:\n\n- The expected probability of delaying graduation due to COVID-19 increases by approximately 25% if either a student\u2019s subjective probability of being late on a debt payment or subjective probability of requiring hospitalization conditional on contracting COVID-19 increases by one standard deviation.\n- The average of the principal component for the economic and health shocks is about 0.3-0.4 standard deviations higher for students from lower-income families.\n- The disparate economic and health impacts of COVID-19 can explain 40% of the delayed graduation gap between lower- and higher-income students.\n\nMore specific data and statistics related to COVID-19 can be found in the provided tables, such as Table A1 and Table A2, which discuss the effects of COVID-19 on various outcomes, including expected earnings, resume wage, semester GPA, and withdrawal from classes.",
+        "sources": [
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 21
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 5
+          }
+        ],
+        "created_at": "2026-06-22T11:17:52.799050+00:00"
+      },
+      {
+        "message_id": "10776aa8-0c8e-42dd-a330-0284920a5a7b",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-22T11:17:58.424338+00:00"
+      },
+      {
+        "message_id": "5cad3854-1d72-423a-be79-ee1200f6c465",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 20
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 21
+          }
+        ],
+        "created_at": "2026-06-22T11:18:01.419474+00:00"
+      },
+      {
+        "message_id": "9d91fdd3-e90d-478d-8218-1266e65c70b4",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "user",
+        "content": "covid",
+        "sources": null,
+        "created_at": "2026-06-23T06:08:04.547562+00:00"
+      },
+      {
+        "message_id": "be68e441-fb4c-41d1-924f-34a4f9580033",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:08:07.491349+00:00"
+      },
+      {
+        "message_id": "f38f1afc-2a30-40b7-a045-cbe383d8d07e",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "user",
+        "content": "covid",
+        "sources": null,
+        "created_at": "2026-06-23T06:09:59.802228+00:00"
+      },
+      {
+        "message_id": "6514a15a-efae-4820-9c63-63e326d37560",
+        "session_id": "bfb60648-be17-4038-9eab-6a2d050372db",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:10:01.910641+00:00"
+      }
+    ],
+    "b6814491-5d55-49c3-ad91-752cdb056a14": [
+      {
+        "message_id": "033b3e2e-91c4-45bc-b963-66e1008d4275",
+        "session_id": "b6814491-5d55-49c3-ad91-752cdb056a14",
+        "role": "user",
+        "content": "hello",
+        "sources": null,
+        "created_at": "2026-06-23T06:10:57.907555+00:00"
+      },
+      {
+        "message_id": "2d5ca237-33a5-4b3b-b876-ac1171efcea2",
+        "session_id": "b6814491-5d55-49c3-ad91-752cdb056a14",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:00.012345+00:00"
+      }
+    ],
+    "1751523c-30b7-4963-8e24-64b5e2fc85cb": [
+      {
+        "message_id": "518ae856-092b-4032-9ebd-e0c70fbd99ae",
+        "session_id": "1751523c-30b7-4963-8e24-64b5e2fc85cb",
+        "role": "user",
+        "content": "hello",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:07.003167+00:00"
+      },
+      {
+        "message_id": "d4a4a475-d3e0-4d41-b116-5d3b627de220",
+        "session_id": "1751523c-30b7-4963-8e24-64b5e2fc85cb",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:09.095478+00:00"
+      }
+    ],
+    "05d98514-6397-474c-bf23-6c7f0c512bdf": [
+      {
+        "message_id": "8528ecef-b749-4baf-9119-ef47dca6fd5b",
+        "session_id": "05d98514-6397-474c-bf23-6c7f0c512bdf",
+        "role": "user",
+        "content": "hello",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:16.687435+00:00"
+      },
+      {
+        "message_id": "056dbdd1-3dcf-4bde-b6c7-8036606c18fa",
+        "session_id": "05d98514-6397-474c-bf23-6c7f0c512bdf",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:18.800626+00:00"
+      }
+    ],
+    "45034c4b-5a48-4e13-a1dd-3e433c5bf0b4": [
+      {
+        "message_id": "6a8ea330-1ad2-43c2-a8df-5d687f4b2cbf",
+        "session_id": "45034c4b-5a48-4e13-a1dd-3e433c5bf0b4",
+        "role": "user",
+        "content": "hello",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:27.445833+00:00"
+      },
+      {
+        "message_id": "da2ee62d-5f5c-4e2b-9f5e-6d456a0dd9cc",
+        "session_id": "45034c4b-5a48-4e13-a1dd-3e433c5bf0b4",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:11:29.534938+00:00"
+      }
+    ],
+    "06fb8217-f4c5-4c14-86ac-9908fa237030": [
+      {
+        "message_id": "844c621d-2381-4131-9320-ddd5bcf51bd0",
+        "session_id": "06fb8217-f4c5-4c14-86ac-9908fa237030",
+        "role": "user",
+        "content": "tell me about covid 19",
+        "sources": null,
+        "created_at": "2026-06-23T06:18:58.229521+00:00"
+      },
+      {
+        "message_id": "e78f902e-b8fd-4bf3-a387-3e52b7db28a6",
+        "session_id": "06fb8217-f4c5-4c14-86ac-9908fa237030",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 has had a significant impact on students' outcomes and expectations, particularly in the context of higher education. The pandemic has served as both an economic and health shock, with heterogeneous effects across different groups of students. \n\nSome key findings include:\n\n* Students expecting to graduate in 2021 and later believe that COVID-19 will impact their job market outcomes.\n* Students who plan to graduate in 2023 expect to be 6 percentage points less likely to find a job before graduating due to COVID-19.\n* The pandemic has led to delays in graduation, with 13% of students having delayed graduation due to COVID-19.\n* Economic and health shocks, such as financial fragility and the probability of hospitalization, play an important role in determining students' COVID-19 experiences.\n* The magnitude of health and economic shocks is not homogeneous across the student population, contributing to demographic gaps in COVID-19's effect on higher education.",
+        "sources": [
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 5
+          }
+        ],
+        "created_at": "2026-06-23T06:21:11.074048+00:00"
+      }
+    ],
+    "6e76c120-5b77-47bd-921e-641d9a8cfb49": [
+      {
+        "message_id": "25fd14ce-8703-41d0-8067-a58a078136e5",
+        "session_id": "6e76c120-5b77-47bd-921e-641d9a8cfb49",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:22:19.710302+00:00"
+      },
+      {
+        "message_id": "0e40a083-06bd-4492-9ea5-a14af4c9c451",
+        "session_id": "6e76c120-5b77-47bd-921e-641d9a8cfb49",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:22:21.817603+00:00"
+      }
+    ],
+    "fa74791c-816e-4886-bff6-3c95a87b8b26": [
+      {
+        "message_id": "16554c9e-69ad-4270-a57d-a78b1bb61e87",
+        "session_id": "fa74791c-816e-4886-bff6-3c95a87b8b26",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:22:36.865071+00:00"
+      },
+      {
+        "message_id": "066d9022-2ef4-4ed4-b3a4-2e1a9a968516",
+        "session_id": "fa74791c-816e-4886-bff6-3c95a87b8b26",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is significant and multifaceted. Some of the key effects include:\n\n1. Delayed graduation: 13% of students have delayed graduation due to COVID-19.\n2. Job loss: 40% of students lost a job, internship, or job offer due to COVID-19.\n3. Reduced expected earnings: 29% of students expect to earn less at age 35 due to COVID-19.\n4. Changes in study time: One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week.\n5. Negative experiences with online teaching: Students' negative experiences with online teaching may affect their willingness to take online classes in the future.\n6. Disruption to academic experiences: COVID-19 has disrupted students' academic experiences, with potential lasting impacts through changes in major/career and delayed graduation timelines.\n\nOverall, the documents suggest that COVID-19 has had a substantial and negative impact on students' outcomes and expectations.",
+        "sources": [
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 15
+          }
+        ],
+        "created_at": "2026-06-23T06:22:40.009259+00:00"
+      }
+    ],
+    "28356b17-33ca-448c-a7db-71f29e1097f5": [
+      {
+        "message_id": "879eaff5-cde6-4f48-a767-ffcbb3a71e7d",
+        "session_id": "28356b17-33ca-448c-a7db-71f29e1097f5",
+        "role": "user",
+        "content": "hello",
+        "sources": null,
+        "created_at": "2026-06-23T06:27:18.611087+00:00"
+      },
+      {
+        "message_id": "2d4b675e-2282-41e8-82d7-4d44709cd5c9",
+        "session_id": "28356b17-33ca-448c-a7db-71f29e1097f5",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:27:20.709453+00:00"
+      }
+    ],
+    "208a0fb5-9e50-47dd-99cd-a2115b77b31e": [
+      {
+        "message_id": "e2ed6028-4980-46ef-9af7-90f0b22255b2",
+        "session_id": "208a0fb5-9e50-47dd-99cd-a2115b77b31e",
+        "role": "user",
+        "content": "what is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:27:22.848637+00:00"
+      },
+      {
+        "message_id": "2cbae429-1964-4583-9efb-fd1b1a7a7c51",
+        "session_id": "208a0fb5-9e50-47dd-99cd-a2115b77b31e",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-23T06:27:24.944736+00:00"
+      }
+    ],
+    "f2b2919b-d576-42ff-8f93-37da403033c2": [
+      {
+        "message_id": "110127d0-f6a5-4a61-bd3d-c5a6f07ef653",
+        "session_id": "f2b2919b-d576-42ff-8f93-37da403033c2",
+        "role": "user",
+        "content": "What is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:29:18.713523+00:00"
+      }
+    ],
+    "f2338f46-61f6-4d63-94e6-d8173e7629f1": [
+      {
+        "message_id": "fa196829-e14c-4575-b882-88ec65619de4",
+        "session_id": "f2338f46-61f6-4d63-94e6-d8173e7629f1",
+        "role": "user",
+        "content": "What is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:30:17.006171+00:00"
+      }
+    ],
+    "2ed1fc67-873f-4067-86ef-31618e211f92": [
+      {
+        "message_id": "44e68c40-467d-454e-bccb-002cc11b67b3",
+        "session_id": "2ed1fc67-873f-4067-86ef-31618e211f92",
+        "role": "user",
+        "content": "What is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:30:31.836703+00:00"
+      }
+    ],
+    "1d881acf-b5ef-48f5-9839-f96be30369c6": [
+      {
+        "message_id": "4f61e166-4068-420c-923d-689360cd6411",
+        "session_id": "1d881acf-b5ef-48f5-9839-f96be30369c6",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:31:18.280124+00:00"
+      },
+      {
+        "message_id": "edfc420e-80df-4f46-b56e-0a39a9ac703d",
+        "session_id": "1d881acf-b5ef-48f5-9839-f96be30369c6",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is largely negative, with effects including:\n\n* 13% of students delaying graduation\n* 40% losing a job, internship, or job offer\n* 29% expecting to earn less at age 35\n* One quarter of students increasing their study time by more than 4 hours per week, while another quarter decreasing their study time by more than 5 hours per week\n\nAdditionally, students face an increasingly uncertain environment with financial and health shocks, which may affect their academic performance, educational plans, current labor market participation, and expectations about future employment. Enrollment is also likely to drop by 15% in the fall of 2020.",
+        "sources": [
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "0f87f35b-6986-44e3-ba04-7142a3ecc177_w27392.pdf",
+            "page": 3
+          }
+        ],
+        "created_at": "2026-06-23T06:31:21.500538+00:00"
+      }
+    ],
+    "e41ad26c-1e92-46da-acee-a9da669956ce": [
+      {
+        "message_id": "c7edf2fa-e746-491d-8b70-62a80a7215b0",
+        "session_id": "e41ad26c-1e92-46da-acee-a9da669956ce",
+        "role": "user",
+        "content": "What is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:31:32.002654+00:00"
+      },
+      {
+        "message_id": "d3cadba7-d9cc-4abe-9cde-3bb9f79ed14d",
+        "session_id": "e41ad26c-1e92-46da-acee-a9da669956ce",
+        "role": "assistant",
+        "content": "This document is about the product launch report for the SmartHome Hub by Innovative Tech Solutions, Inc., including its key features, market analysis, competitor analysis, and marketing strategy.",
+        "sources": [
+          {
+            "document": "b4a59d56-c045-49a1-880d-40b81d0005d0_test.pdf",
+            "page": 1
+          },
+          {
+            "document": "b4a59d56-c045-49a1-880d-40b81d0005d0_test.pdf",
+            "page": 5
+          },
+          {
+            "document": "b4a59d56-c045-49a1-880d-40b81d0005d0_test.pdf",
+            "page": 2
+          },
+          {
+            "document": "b4a59d56-c045-49a1-880d-40b81d0005d0_test.pdf",
+            "page": 3
+          },
+          {
+            "document": "b4a59d56-c045-49a1-880d-40b81d0005d0_test.pdf",
+            "page": 4
+          }
+        ],
+        "created_at": "2026-06-23T06:31:34.821409+00:00"
+      }
+    ],
+    "660053e8-b56d-4bd8-a1a1-b012daea9d34": [
+      {
+        "message_id": "c33830c4-1337-4966-8a19-d5ae51c09303",
+        "session_id": "660053e8-b56d-4bd8-a1a1-b012daea9d34",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:49:39.399006+00:00"
+      },
+      {
+        "message_id": "88e06ab8-8f78-428d-ae2b-d80421d3da83",
+        "session_id": "660053e8-b56d-4bd8-a1a1-b012daea9d34",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is significant and multifaceted. Some of the key effects include:\n\n1. Delayed graduation: 13% of students have delayed graduation due to COVID-19.\n2. Job and internship losses: 40% of students lost a job, internship, or job offer due to COVID-19.\n3. Reduced expected earnings: 29% of students expect to earn less at age 35 due to COVID-19.\n4. Changes in study time: One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week.\n5. Negative experiences with online teaching: Students' negative experiences with online teaching may affect their willingness to take online classes in the future.\n6. Disruption to academic experiences: COVID-19 has disrupted students' academic experiences, with potential lasting impacts through changes in major/career and delayed graduation timelines.\n7. Uncertainty and financial and health shocks: Students face an increasingly uncertain environment, with financial and health shocks affecting their academic performance, educational plans, and expectations about future employment.",
+        "sources": [
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 15
+          }
+        ],
+        "created_at": "2026-06-23T06:49:42.894053+00:00"
+      }
+    ],
+    "70c7373b-7009-4ea1-95ef-6b231154d1e6": [
+      {
+        "message_id": "571bf554-0325-40fc-8f55-e9ffb6d4d3fb",
+        "session_id": "70c7373b-7009-4ea1-95ef-6b231154d1e6",
+        "role": "user",
+        "content": "What is this document about?",
+        "sources": null,
+        "created_at": "2026-06-23T06:54:45.356298+00:00"
+      },
+      {
+        "message_id": "f061532b-1105-46a2-8f0e-1bbadf3967c1",
+        "session_id": "70c7373b-7009-4ea1-95ef-6b231154d1e6",
+        "role": "assistant",
+        "content": "This document appears to be about learning to code in Python 3, covering various topics such as lists, debugging, and Boolean operators for flow control.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 3
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 89
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 226
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 410
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 210
+          }
+        ],
+        "created_at": "2026-06-23T06:54:52.918389+00:00"
+      }
+    ],
+    "adda1605-63be-48f0-b9b3-384ecbf4038f": [
+      {
+        "message_id": "fc78c2a0-0ad9-4205-9a13-3e1f099f60eb",
+        "session_id": "adda1605-63be-48f0-b9b3-384ecbf4038f",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:55:27.228439+00:00"
+      },
+      {
+        "message_id": "0763c338-a7a7-4abe-b717-e9c5bad3ed74",
+        "session_id": "adda1605-63be-48f0-b9b3-384ecbf4038f",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is largely negative. The effects include:\n\n* 13% of students have delayed graduation\n* 40% lost a job, internship, or a job offer\n* 29% expect to earn less at age 35\n* A quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week\n* Students face an increasingly uncertain environment, with financial and health shocks affecting their academic performance, educational plans, current labor market participation, and expectations about future employment.\n\nOverall, COVID-19 has represented a substantial disruption to students' academic experiences and is likely to have lasting impacts through changes in major/career and delayed graduation timelines.",
+        "sources": [
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "76b6dcac-5cab-4a2e-a105-84198d94d8f6_w27392.pdf",
+            "page": 15
+          }
+        ],
+        "created_at": "2026-06-23T06:55:30.280732+00:00"
+      }
+    ],
+    "c432f067-4206-4e93-803e-3c76a8c1df3d": [
+      {
+        "message_id": "3baba4fc-ce5e-4f0a-a664-338acac7180c",
+        "session_id": "c432f067-4206-4e93-803e-3c76a8c1df3d",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T06:57:44.563726+00:00"
+      }
+    ],
+    "e2de107b-ba9e-4edf-91a7-f9e0d491f536": [
+      {
+        "message_id": "856d82eb-9bff-4aca-9402-0bb5d525732f",
+        "session_id": "e2de107b-ba9e-4edf-91a7-f9e0d491f536",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T07:05:16.428627+00:00"
+      },
+      {
+        "message_id": "dfa5873f-7c72-480c-a677-691cc8ac369e",
+        "session_id": "e2de107b-ba9e-4edf-91a7-f9e0d491f536",
+        "role": "assistant",
+        "content": "The impact of COVID-19 on students is significant and multifaceted. According to the provided documents, the effects include:\n\n1. Delayed graduation: 13% of students have delayed graduation due to COVID-19.\n2. Job loss: 40% of students lost a job, internship, or job offer.\n3. Reduced expected earnings: 29% of students expect to earn less at age 35.\n4. Changes in study time: One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week.\n5. Negative experiences with online teaching, which may affect their willingness to take online classes in the future.\n6. Disruption to academic experiences, with potential lasting impacts through changes in major/career and delayed graduation timelines.\n\nOverall, the pandemic has represented a substantial disruption to students' academic experiences and is likely to have lasting impacts on their outcomes and expectations.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 15
+          }
+        ],
+        "created_at": "2026-06-23T07:05:19.850274+00:00"
+      }
+    ],
+    "c5090c46-dbdb-420d-ab9a-986272d9eb31": [
+      {
+        "message_id": "4a895e49-c84b-4ab7-848a-8e0968e52581",
+        "session_id": "c5090c46-dbdb-420d-ab9a-986272d9eb31",
+        "role": "user",
+        "content": "How do I write a for loop in Python?",
+        "sources": null,
+        "created_at": "2026-06-23T07:05:19.868742+00:00"
+      },
+      {
+        "message_id": "fad0c7f1-9f21-4e29-ba8b-b568e3ab93c6",
+        "session_id": "c5090c46-dbdb-420d-ab9a-986272d9eb31",
+        "role": "assistant",
+        "content": "To write a for loop in Python, you can construct it like this: \n\nfor [iterating variable] in [sequence]: \n    [do something]\n\nThe \"something\" that is being done will be executed until the sequence is over. For example: \n\nfor i in range(0,5): \n    print(i) \n\nThis will print the numbers 0 through 4.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 317
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 325
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 329
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 174
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 328
+          }
+        ],
+        "created_at": "2026-06-23T07:05:22.500123+00:00"
+      }
+    ],
+    "6d4073f1-632d-43b2-876f-0737cd66731c": [
+      {
+        "message_id": "34df085b-6403-4578-ac3e-8f16ae1f2c3b",
+        "session_id": "6d4073f1-632d-43b2-876f-0737cd66731c",
+        "role": "user",
+        "content": "wmnds",
+        "sources": null,
+        "created_at": "2026-06-23T07:12:01.172493+00:00"
+      }
+    ],
+    "b54e3dbd-9038-463e-89eb-817edf4d00ec": [
+      {
+        "message_id": "1498bc07-7d0d-4759-960e-5682155ad870",
+        "session_id": "b54e3dbd-9038-463e-89eb-817edf4d00ec",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T07:13:26.950033+00:00"
+      },
+      {
+        "message_id": "9ef994dd-a689-4950-97cd-c3992a07e7ea",
+        "session_id": "b54e3dbd-9038-463e-89eb-817edf4d00ec",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is significant and heterogeneous. Some of the effects include:\n\n* 13% of students have delayed graduation\n* 40% lost a job, internship, or a job offer\n* 29% expect to earn less at age 35\n* One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week\n* The pandemic has also affected students' academic performance, educational plans, current labor market participation, and expectations about future employment.\n\nOverall, the results suggest that COVID-19 represents a substantial disruption to students' academic experiences and is likely to have lasting impacts.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 3
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 9
+          }
+        ],
+        "created_at": "2026-06-23T07:13:30.169579+00:00"
+      }
+    ],
+    "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd": [
+      {
+        "message_id": "a5eb6199-7dbf-4067-a1c3-a1d4b8dd44af",
+        "session_id": "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd",
+        "role": "user",
+        "content": "tell me about covid",
+        "sources": null,
+        "created_at": "2026-06-23T07:16:32.544523+00:00"
+      },
+      {
+        "message_id": "89d9084e-d3ed-4720-bf37-7736499d31f7",
+        "session_id": "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd",
+        "role": "assistant",
+        "content": "According to the provided documents, COVID-19 is mentioned as having an impact on students' job market outcomes. Students expecting to graduate in 2021 and later believe that COVID-19 will affect their job prospects, with those planning to graduate in 2023 expecting to be 6 percentage points less likely to find a job before graduating due to COVID-19.\n\nThe documents also discuss the economic and health shocks caused by COVID-19, which may have heterogeneous effects across different groups. The economic shocks are characterized by factors such as job loss, reduced income, and debt payment difficulties, while the health shocks are measured by factors such as the likelihood of hospitalization, contraction of COVID-19, and subjective health assessment.\n\nHowever, the documents do not provide general information about COVID-19, such as its causes, symptoms, or prevention measures. The information provided is specific to the context of students and their perceptions of the impact of COVID-19 on their job market outcomes.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 12
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 12
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 13
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 13
+          }
+        ],
+        "created_at": "2026-06-23T07:16:35.842214+00:00"
+      },
+      {
+        "message_id": "f86996e2-ef82-45de-8832-91be0a00bde5",
+        "session_id": "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-23T07:16:39.598968+00:00"
+      },
+      {
+        "message_id": "179d4965-5ffe-4058-9244-336212f76b2f",
+        "session_id": "3aa8e316-c0b8-48a2-842f-d62b4c2a4fbd",
+        "role": "assistant",
+        "content": "Python is a very human-readable programming language, allowing for quick comprehension. It supports multiple styles, including scripting and object-oriented programming, making it a multi-paradigm language. Python is increasingly used in industry and offers a lot of potential for those who would like to begin coding or pick up an additional programming language. It was authored by Guido van Rossum and first published in 1991. Python can also be used as a calculator.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 179
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 8
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 74
+          }
+        ],
+        "created_at": "2026-06-23T07:16:42.561597+00:00"
+      }
+    ],
+    "9db246bb-6584-44f7-91ca-cdd1667fd55a": [
+      {
+        "message_id": "8cd9fa15-99b8-4f01-836e-462bec1fa720",
+        "session_id": "9db246bb-6584-44f7-91ca-cdd1667fd55a",
+        "role": "user",
+        "content": "What is the impact of COVID-19 on students?",
+        "sources": null,
+        "created_at": "2026-06-23T07:20:59.284205+00:00"
+      },
+      {
+        "message_id": "ef3d1772-db18-4b14-9dc2-dd50e0429720",
+        "session_id": "9db246bb-6584-44f7-91ca-cdd1667fd55a",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students is significant and heterogeneous. Some of the effects include:\n\n* 13% of students have delayed graduation\n* 40% lost a job, internship, or a job offer\n* 29% expect to earn less at age 35\n* One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week\n* The pandemic has decreased study time by 5 hours at the 25th percentile and increased study time by 4 hours at the 75th percentile\n* Students' current and expected labor market outcomes were substantially disrupted by COVID-19\n* Students face an increasingly uncertain environment, with financial and health shocks affecting their academic performance, educational plans, and expectations about future employment.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 3
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 3
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 9
+          }
+        ],
+        "created_at": "2026-06-23T07:21:02.274956+00:00"
+      }
+    ],
+    "813c4073-e6d0-44ba-ac08-df18f0d13caf": [
+      {
+        "message_id": "669c855b-37af-436c-b3c8-35531a183881",
+        "session_id": "813c4073-e6d0-44ba-ac08-df18f0d13caf",
+        "role": "user",
+        "content": "impact of covid",
+        "sources": null,
+        "created_at": "2026-06-23T07:28:50.874370+00:00"
+      },
+      {
+        "message_id": "10935c0f-e701-4bcd-a2ee-678d71fc5890",
+        "session_id": "813c4073-e6d0-44ba-ac08-df18f0d13caf",
+        "role": "assistant",
+        "content": "According to the provided documents, the impact of COVID-19 on students includes:\n\n* 13% of students have delayed graduation\n* 40% lost a job, internship, or a job offer\n* 29% expect to earn less at age 35\n* One quarter of students increased their study time by more than 4 hours per week, while another quarter decreased their study time by more than 5 hours per week\n* Nonwhite students are 70% more likely to report changing their major choice compared to their white peers\n* First-generation students are 50% more likely to delay their graduation than students with college-educated parents\n\nThese effects have been highly heterogeneous, with significant variation in treatment effects remaining after conditioning on proxy variables. Financial and health shocks play an important role in explaining the heterogeneous effects of the COVID-19 outbreak.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 2
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 10
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 10
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 15
+          }
+        ],
+        "created_at": "2026-06-23T07:28:54.109949+00:00"
+      }
+    ],
+    "51cb22bc-8bfe-4953-805d-d0be98056beb": [
+      {
+        "message_id": "94d25f13-c92f-4c7d-a6f2-df9695f2f416",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "user",
+        "content": "langchain",
+        "sources": null,
+        "created_at": "2026-06-23T07:47:02.473136+00:00"
+      },
+      {
+        "message_id": "a741c88b-c977-4c8c-b67b-c1f36a837c93",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 99
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 134
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 259
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 70
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 353
+          }
+        ],
+        "created_at": "2026-06-23T07:47:06.071998+00:00"
+      },
+      {
+        "message_id": "7d589193-43da-41fa-ba18-643b86196b29",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-23T07:47:10.431888+00:00"
+      },
+      {
+        "message_id": "c4ee3d0a-da9c-4c82-8486-baa8921d57ea",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "assistant",
+        "content": "Python is a very human-readable programming language, allowing for quick comprehension. It is a multi-paradigm language that supports multiple styles, including scripting and object-oriented programming. Python is increasingly used in industry and offers a lot of potential for those who would like to begin coding or pick up an additional programming language. It was authored by Guido van Rossum and was first published in 1991. Python can also be used as a calculator.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 179
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 8
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 74
+          }
+        ],
+        "created_at": "2026-06-23T07:47:13.262643+00:00"
+      },
+      {
+        "message_id": "9513fb99-cb39-470b-8e8c-a05e174c178c",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "user",
+        "content": "what is the syllabus in the python book",
+        "sources": null,
+        "created_at": "2026-06-23T07:47:37.880469+00:00"
+      },
+      {
+        "message_id": "2f20fe2b-19af-4b44-9cdb-5b9d344c2e20",
+        "session_id": "51cb22bc-8bfe-4953-805d-d0be98056beb",
+        "role": "assistant",
+        "content": "The syllabus in the Python book covers the following topics: \n\n1. Key differences between Python 3 and previous versions\n2. Setting up a programming environment\n3. General Python code structure, syntax, and data types\n4. Computational logic within Python\n5. Scripting in Python\n6. Object-oriented coding in Python\n7. Debugging Python code\n8. Porting Python code across versions\n\nThis syllabus is spread throughout the book, with the beginning focusing on scripting and the end covering object-oriented coding and advanced topics.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 9
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 289
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 179
+          }
+        ],
+        "created_at": "2026-06-23T07:47:40.876509+00:00"
+      }
+    ],
+    "0178ae59-b18e-4d90-9493-fc5dda8c142a": [
+      {
+        "message_id": "0869b65a-eb49-44f4-b6ac-5cf3850f7b90",
+        "session_id": "0178ae59-b18e-4d90-9493-fc5dda8c142a",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-23T09:39:18.235447+00:00"
+      },
+      {
+        "message_id": "1df670b0-542e-4ccc-a38b-04da9fdf4cec",
+        "session_id": "0178ae59-b18e-4d90-9493-fc5dda8c142a",
+        "role": "assistant",
+        "content": "Python is a very human-readable programming language, allowing for quick comprehension. It is a multi-paradigm language that supports multiple styles, including scripting and object-oriented programming, and is increasingly used in industry. Python can be used as a calculator and is a great choice for beginners due to its ease of setup and straightforward style with immediate feedback on errors. It was developed in the late 1980s by Guido van Rossum and first published in 1991.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 179
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 8
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 74
+          }
+        ],
+        "created_at": "2026-06-23T09:39:22.371644+00:00"
+      }
+    ],
+    "ec5b2d19-1bbd-4383-9fee-e6a2c86e96a0": [
+      {
+        "message_id": "893ca996-6d5d-47b8-9af1-6bd5d867b599",
+        "session_id": "ec5b2d19-1bbd-4383-9fee-e6a2c86e96a0",
+        "role": "user",
+        "content": "give me print syntax",
+        "sources": null,
+        "created_at": "2026-06-23T10:01:22.899773+00:00"
+      },
+      {
+        "message_id": "501f6313-f78a-453a-a25b-1f4968dbec02",
+        "session_id": "ec5b2d19-1bbd-4383-9fee-e6a2c86e96a0",
+        "role": "assistant",
+        "content": "The print syntax in Python 3 is: \n\nprint(\"string\") \n\nor \n\nprint('string') \n\nwhere \"string\" or 'string' is the sequence of characters you want to print.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 14
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 70
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 71
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 431
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 101
+          }
+        ],
+        "created_at": "2026-06-23T10:01:27.391470+00:00"
+      }
+    ],
+    "19ab1214-f458-4a3f-8f4f-89001efb1a68": [
+      {
+        "message_id": "38077670-afd7-4e29-aa5e-bc1bbc956bb8",
+        "session_id": "19ab1214-f458-4a3f-8f4f-89001efb1a68",
+        "role": "user",
+        "content": "what is python",
+        "sources": null,
+        "created_at": "2026-06-23T12:01:17.238040+00:00"
+      },
+      {
+        "message_id": "6f046df3-4bae-405c-becd-e9c87552a52d",
+        "session_id": "19ab1214-f458-4a3f-8f4f-89001efb1a68",
+        "role": "assistant",
+        "content": "Python is a very human-readable programming language, allowing for quick comprehension. It is a multi-paradigm language that supports multiple styles, including scripting and object-oriented programming, making it a great choice for beginners and a good option for those looking to pick up an additional programming language. It is also an extremely readable and versatile programming language, with a relatively straightforward style and immediate feedback on errors.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 8
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 179
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 90
+          }
+        ],
+        "created_at": "2026-06-23T12:01:22.379972+00:00"
+      }
+    ],
+    "5db6dd1a-ac79-466b-9d6c-718c585f53fd": [
+      {
+        "message_id": "0700e012-c07f-4742-a6c9-b332542878e4",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "user",
+        "content": "tell me about my resume",
+        "sources": null,
+        "created_at": "2026-06-24T09:58:38.745369+00:00"
+      },
+      {
+        "message_id": "83ccb167-adf1-4065-b718-fab340e3e843",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "assistant",
+        "content": "The information about your resume is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 24
+          },
+          {
+            "document": "39730040-87c7-4aaf-8f1f-5f50ebed1127_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 21
+          },
+          {
+            "document": "39730040-87c7-4aaf-8f1f-5f50ebed1127_w27392.pdf",
+            "page": 21
+          }
+        ],
+        "created_at": "2026-06-24T09:58:41.660265+00:00"
+      },
+      {
+        "message_id": "6ec3c6d7-fb48-459d-a722-6125640f9f3d",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "user",
+        "content": "work experience",
+        "sources": null,
+        "created_at": "2026-06-24T09:58:56.008251+00:00"
+      },
+      {
+        "message_id": "3f04475a-d587-45ff-976f-f57709d1b6d4",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "assistant",
+        "content": "Time working for pay is mentioned in the documents with a value of -0.46*** (0.66), 0.09, 0.35, -1.00, and 0.00.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 24
+          },
+          {
+            "document": "39730040-87c7-4aaf-8f1f-5f50ebed1127_w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 10
+          },
+          {
+            "document": "39730040-87c7-4aaf-8f1f-5f50ebed1127_w27392.pdf",
+            "page": 10
+          }
+        ],
+        "created_at": "2026-06-24T09:58:58.965610+00:00"
+      },
+      {
+        "message_id": "616c12a0-ae36-469b-8a43-71a2226037ac",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "user",
+        "content": "indian army is mentioned?",
+        "sources": null,
+        "created_at": "2026-06-24T10:44:40.222210+00:00"
+      },
+      {
+        "message_id": "5fd7e97b-7321-4df3-bd1d-8470109941ac",
+        "session_id": "5db6dd1a-ac79-466b-9d6c-718c585f53fd",
+        "role": "assistant",
+        "content": "The information about the Indian Army is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 96
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 92
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 406
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 375
+          },
+          {
+            "document": "b9573047-984d-4e4b-b4c6-fb3c1d983946_how-to-code-in-python-3.pdf",
+            "page": 11
+          }
+        ],
+        "created_at": "2026-06-24T10:44:43.591433+00:00"
+      }
+    ],
+    "2384b088-3816-4fec-8dc4-7e82d54175c2": [
+      {
+        "message_id": "178e850e-b3f7-4dc0-bb36-90ca55dcfc07",
+        "session_id": "2384b088-3816-4fec-8dc4-7e82d54175c2",
+        "role": "user",
+        "content": "explain aaryaman chauhan resume",
+        "sources": null,
+        "created_at": "2026-06-24T10:45:06.193041+00:00"
+      },
+      {
+        "message_id": "2b40e822-fe63-47a6-bfa3-1ec98696eefd",
+        "session_id": "2384b088-3816-4fec-8dc4-7e82d54175c2",
+        "role": "assistant",
+        "content": "The information about Aaryaman Chauhan's resume is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 14
+          },
+          {
+            "document": "39730040-87c7-4aaf-8f1f-5f50ebed1127_w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "2fb76ab6-3970-459f-a14a-6f2376d4c46e_w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "b88ce1d1-59e3-4f1f-bb55-c658d02e6142_covid-test.pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-24T10:45:09.061935+00:00"
+      }
+    ],
+    "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403": [
+      {
+        "message_id": "5d09fa68-f544-4ad9-b139-8d4729a6a1ba",
+        "session_id": "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403",
+        "role": "user",
+        "content": "tell me about the resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:05:31.673420+00:00"
+      },
+      {
+        "message_id": "6611d45c-ff22-4b6b-be2f-5cd173066d35",
+        "session_id": "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403",
+        "role": "user",
+        "content": "summarise the resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:08:30.389286+00:00"
+      },
+      {
+        "message_id": "33cc5ce9-0e52-412a-b8de-5c51d2449ab8",
+        "session_id": "8ed9c1e5-c9e6-43f4-acb1-87adee0ea403",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-24T11:08:32.489117+00:00"
+      }
+    ],
+    "46367462-8b08-40c9-8626-dabb09a5ba1e": [
+      {
+        "message_id": "1f89a740-9bc3-40d7-8e14-15e789f53ac8",
+        "session_id": "46367462-8b08-40c9-8626-dabb09a5ba1e",
+        "role": "user",
+        "content": "summarize the resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:24:09.239727+00:00"
+      }
+    ],
+    "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887": [
+      {
+        "message_id": "c562351c-bb2c-4bf3-81f5-f01ae5494c55",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "user",
+        "content": "summarize the resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:32:06.208572+00:00"
+      },
+      {
+        "message_id": "3cf3da75-0e73-45fb-835b-2def95d6dec3",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "assistant",
+        "content": "There is no information available in the provided documents to summarize a resume. The context appears to be related to academic research, specifically economics and health proxies, and does not contain any information about a resume.",
+        "sources": [
+          {
+            "document": "w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 21
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 20
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 26
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 8
+          }
+        ],
+        "created_at": "2026-06-24T11:32:12.807941+00:00"
+      },
+      {
+        "message_id": "d08818a4-1546-4250-a0a8-c6424983561f",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "user",
+        "content": "there is a resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:32:22.798144+00:00"
+      },
+      {
+        "message_id": "3d49356d-b00f-4aef-a9a5-5f1a002c1347",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 19
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 17
+          }
+        ],
+        "created_at": "2026-06-24T11:32:27.602213+00:00"
+      },
+      {
+        "message_id": "ad728e9a-d10d-49bb-adc7-b5e800ce8c35",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "user",
+        "content": "aaryaman chauhan resume is the file to access from. summarize it",
+        "sources": null,
+        "created_at": "2026-06-24T11:33:14.683594+00:00"
+      },
+      {
+        "message_id": "5cb1b55d-545d-4891-8482-13a7360472b5",
+        "session_id": "41d7cd87-f13f-4bdf-8e8c-b01f6a2c1887",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents. The context only includes snippets from a research document (w27392.pdf) and does not mention \"aaryaman chauhan resume\".",
+        "sources": [
+          {
+            "document": "w27392.pdf",
+            "page": 8
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 14
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 22
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-24T11:33:19.417194+00:00"
+      }
+    ],
+    "51b75fb9-463a-4b2b-86f8-79a64c38fb69": [
+      {
+        "message_id": "70523786-c11d-4fed-a264-419d969a7569",
+        "session_id": "51b75fb9-463a-4b2b-86f8-79a64c38fb69",
+        "role": "user",
+        "content": "summarize the resume",
+        "sources": null,
+        "created_at": "2026-06-24T11:43:40.156454+00:00"
+      },
+      {
+        "message_id": "62522a44-5340-4147-8b71-38cc6423f62f",
+        "session_id": "51b75fb9-463a-4b2b-86f8-79a64c38fb69",
+        "role": "assistant",
+        "content": "The resume belongs to Aaryaman Singh Chauhan, a Computer Science student at Manipal University Jaipur. He has hands-on experience in software development, data analytics, and AI-based systems. His skills include data analytics, prompt engineering, database management, API management, AI/ML, cybersecurity, and programming languages such as Python, C, Java, SQL, HTML, CSS, and JavaScript.\n\nHe has interned at XP India as a Software Development Intern and worked at the Indian Army as a Data Analyst. He has also held leadership positions, including Head of Events at the Entrepreneurship Cell Manipal, where he organized events such as a Shark Tank event and the Smart India Hackathon finals.\n\nAaryaman has worked on various projects, including an AI-driven financial fraud detection system, an inventory management system, and a railway management system. He has also participated in and organized various events, such as hackathons, industry talks, and a blood donation camp. Overall, Aaryaman's resume showcases his technical skills, leadership experience, and passion for innovative projects and initiatives.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          }
+        ],
+        "created_at": "2026-06-24T11:43:43.534628+00:00"
+      }
+    ],
+    "7ad155e8-336b-4082-b876-3a4e29fe19b2": [
+      {
+        "message_id": "2f0a4811-8f57-492e-84c6-1b1fc0baa7c2",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "user",
+        "content": "syntax in python",
+        "sources": null,
+        "created_at": "2026-06-24T11:53:05.497538+00:00"
+      },
+      {
+        "message_id": "ac03b225-a4c9-4fec-8e66-e2c8d1793eb7",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "assistant",
+        "content": "In Python, the syntax for printing out a string has changed between Python 2 and Python 3. \n\nIn Python 2, the print statement is used without parentheses: \nprint \"Sammy the Shark is my favorite sea creature\"\n\nIn Python 3, print() is explicitly treated as a function, so the syntax is:\nprint(\"Sammy the Shark is my favorite sea creature\") \n\nThis change made Python's syntax more consistent and also made it easier to change between different print functions. \n\nAdditionally, strings in Python can be created using either single quotes or double quotes, but it's recommended to be consistent within a program. For example:\n'This is a string in single quotes.'\n\"This is a string in double quotes.\"",
+        "sources": [
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 101
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 121
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 362
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 14
+          }
+        ],
+        "created_at": "2026-06-24T11:53:08.458672+00:00"
+      },
+      {
+        "message_id": "00a4986a-e6e6-409b-bc77-3ded0f3ff139",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "user",
+        "content": "impact of covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T11:54:05.220362+00:00"
+      },
+      {
+        "message_id": "ebd98309-4885-4dfc-a4e2-157219525c26",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 393
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 182
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 49
+          }
+        ],
+        "created_at": "2026-06-24T11:54:08.000264+00:00"
+      },
+      {
+        "message_id": "5344f358-6c35-450e-b5d3-58a189d1b1e9",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T11:54:30.644721+00:00"
+      },
+      {
+        "message_id": "ff7e91ca-58c5-43be-8d46-c503a2623326",
+        "session_id": "7ad155e8-336b-4082-b876-3a4e29fe19b2",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 32
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 59
+          }
+        ],
+        "created_at": "2026-06-24T11:54:33.161050+00:00"
+      }
+    ],
+    "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b": [
+      {
+        "message_id": "4f500d76-8959-429b-94f3-50454772ca5f",
+        "session_id": "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T11:54:38.330390+00:00"
+      },
+      {
+        "message_id": "c632fb0a-a240-44cd-a84d-7ce054c7132b",
+        "session_id": "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 32
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 59
+          }
+        ],
+        "created_at": "2026-06-24T11:54:40.949478+00:00"
+      },
+      {
+        "message_id": "bc12eea6-eecf-4d66-be5b-e1e2258dd6d7",
+        "session_id": "a8d1ad9e-2b4e-4950-8a6c-47a14d49f53b",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T11:55:41.462219+00:00"
+      }
+    ],
+    "f2f3c308-f0a9-4c6c-8ce3-3d98b95d28c4": [
+      {
+        "message_id": "12efdfd0-3965-4d82-8354-b6e2615addd8",
+        "session_id": "f2f3c308-f0a9-4c6c-8ce3-3d98b95d28c4",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T12:03:36.395490+00:00"
+      },
+      {
+        "message_id": "018e71de-835b-4bd0-9b87-dfa878ec2c83",
+        "session_id": "f2f3c308-f0a9-4c6c-8ce3-3d98b95d28c4",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-24T12:03:39.285483+00:00"
+      }
+    ],
+    "c0438318-0730-40dc-b5fa-15bd0f68a71d": [
+      {
+        "message_id": "332d46eb-bc6d-4ac5-ba7b-768afdfe2484",
+        "session_id": "c0438318-0730-40dc-b5fa-15bd0f68a71d",
+        "role": "user",
+        "content": "resume",
+        "sources": null,
+        "created_at": "2026-06-24T12:03:50.922100+00:00"
+      },
+      {
+        "message_id": "dfa4d22d-639f-48b4-857c-3c2e10197c39",
+        "session_id": "c0438318-0730-40dc-b5fa-15bd0f68a71d",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-24T12:03:53.009374+00:00"
+      }
+    ],
+    "44ea996a-0fd1-4ac6-b883-6181183fbcfe": [
+      {
+        "message_id": "a4cac06f-26d8-418f-8d9e-9df9ae850077",
+        "session_id": "44ea996a-0fd1-4ac6-b883-6181183fbcfe",
+        "role": "user",
+        "content": "resume",
+        "sources": null,
+        "created_at": "2026-06-24T12:05:03.795246+00:00"
+      },
+      {
+        "message_id": "591f9483-0b74-46a7-9ff3-85c0a100b948",
+        "session_id": "44ea996a-0fd1-4ac6-b883-6181183fbcfe",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-24T12:05:05.893108+00:00"
+      }
+    ],
+    "292e80d9-8f43-409f-9795-d118538cb91d": [
+      {
+        "message_id": "93e3e8d1-b9a7-4f13-b495-011625859593",
+        "session_id": "292e80d9-8f43-409f-9795-d118538cb91d",
+        "role": "user",
+        "content": "resume",
+        "sources": null,
+        "created_at": "2026-06-24T12:05:17.341070+00:00"
+      },
+      {
+        "message_id": "82901c44-4468-479b-b5b6-7318faf78585",
+        "session_id": "292e80d9-8f43-409f-9795-d118538cb91d",
+        "role": "assistant",
+        "content": "Error: No chunks found in vector store. Run ingestion first.",
+        "sources": null,
+        "created_at": "2026-06-24T12:05:19.428974+00:00"
+      }
+    ],
+    "3b73de33-7bb8-41de-8677-ecd7cecea86c": [
+      {
+        "message_id": "dc580986-12e3-450b-a145-c9d02d8709f7",
+        "session_id": "3b73de33-7bb8-41de-8677-ecd7cecea86c",
+        "role": "user",
+        "content": "summarize the doc",
+        "sources": null,
+        "created_at": "2026-06-24T12:05:55.536825+00:00"
+      }
+    ],
+    "e7f97eb8-b4c0-4674-812f-f613bab1caf1": [
+      {
+        "message_id": "c29550cd-ef05-47e6-9027-322455178670",
+        "session_id": "e7f97eb8-b4c0-4674-812f-f613bab1caf1",
+        "role": "user",
+        "content": "resume summarize",
+        "sources": null,
+        "created_at": "2026-06-24T12:09:00.695444+00:00"
+      },
+      {
+        "message_id": "c6b5e196-6581-4217-9d49-a28c6b81f258",
+        "session_id": "e7f97eb8-b4c0-4674-812f-f613bab1caf1",
+        "role": "assistant",
+        "content": "Aaryaman Singh Chauhan is a Computer Science student with hands-on experience in software development, data analytics, and AI-based systems. He has interned at XP India as a Software Development Intern and worked as a Data Analyst at the Indian Army. He has also led events and projects, including organizing a Shark Tank event and building AI-driven systems such as a Financial Fraud Detection System and an Inventory Management System. His skills include data analytics, prompt engineering, database management, API management, AI/ML, and programming languages like Python, C, Java, SQL, HTML, CSS, and JavaScript.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          }
+        ],
+        "created_at": "2026-06-24T12:09:03.783825+00:00"
+      },
+      {
+        "message_id": "5cfcc343-5299-4644-aa9f-3ee0e8e8c01d",
+        "session_id": "e7f97eb8-b4c0-4674-812f-f613bab1caf1",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T12:17:07.950491+00:00"
+      }
+    ],
+    "663194b9-9b30-4435-a258-02858f44ca01": [
+      {
+        "message_id": "f54ceb4c-60c2-432e-92a6-7be3fcdd420f",
+        "session_id": "663194b9-9b30-4435-a258-02858f44ca01",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T12:31:40.722620+00:00"
+      },
+      {
+        "message_id": "8420760a-9c22-4249-95ac-28c8ca9b62da",
+        "session_id": "663194b9-9b30-4435-a258-02858f44ca01",
+        "role": "assistant",
+        "content": "The provided documents discuss the effects of COVID-19 on higher education. According to the text, COVID-19 has had a significant impact on students' outcomes and expectations, with 13% of students delaying graduation due to the pandemic. The economic and health burdens imposed by COVID-19 can explain a significant proportion of the demographic gaps in COVID-19's effect on the decision to delay graduation, change major, and preferences for online learning.",
+        "sources": [
+          {
+            "document": "w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 5
+          }
+        ],
+        "created_at": "2026-06-24T12:31:50.080765+00:00"
+      },
+      {
+        "message_id": "ffd0b78e-16ed-474a-a523-37d2f7c5466b",
+        "session_id": "663194b9-9b30-4435-a258-02858f44ca01",
+        "role": "user",
+        "content": "army",
+        "sources": null,
+        "created_at": "2026-06-24T12:32:00.887942+00:00"
+      },
+      {
+        "message_id": "95625b5d-55b5-4c28-9874-acdcc6099172",
+        "session_id": "663194b9-9b30-4435-a258-02858f44ca01",
+        "role": "assistant",
+        "content": "According to the provided documents, Aaryaman Chauhan worked with the Indian Army from 12th Jan to 27th Mar 2026 as a Data Analyst in the Directorate General of Information Systems.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 18
+          }
+        ],
+        "created_at": "2026-06-24T12:32:05.789870+00:00"
+      }
+    ],
+    "8e71af0d-d37b-4c89-b20b-8f846a4cd83f": [
+      {
+        "message_id": "3431fb5a-696f-40d0-8210-5a86bdf662fc",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-24T12:33:51.800739+00:00"
+      },
+      {
+        "message_id": "54d3be43-cbee-42c6-96c1-06de503b4b7e",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "Aaryaman Chauhan has experience working with Python development, as mentioned in his experience as a Software Development Intern at XP India. He also lists Python as one of the programming languages he is proficient in, under the SKILLS section of his resume.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 2
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-24T12:33:54.782077+00:00"
+      },
+      {
+        "message_id": "69209391-2258-46a3-8b30-65488f954fe8",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "python syntax",
+        "sources": null,
+        "created_at": "2026-06-24T12:34:04.584228+00:00"
+      },
+      {
+        "message_id": "aa25c2eb-a562-4b18-a521-dc5836c68cf7",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The information on Python syntax is not available in the provided documents. The documents mention that Aaryaman Chauhan has experience with Python development and lists Python as one of his skills, but it does not provide any information on Python syntax.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 25
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-24T12:34:07.459172+00:00"
+      },
+      {
+        "message_id": "f6f16838-128d-4264-860a-db244030aeaa",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "how to code",
+        "sources": null,
+        "created_at": "2026-06-24T12:34:19.124112+00:00"
+      },
+      {
+        "message_id": "d9eddfa2-41a3-440d-a505-5aaad10be53e",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The information on how to code is not available in the provided documents. The documents appear to be a resume and other unrelated texts, and do not contain any coding tutorials or instructions.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 2
+          }
+        ],
+        "created_at": "2026-06-24T12:34:21.834047+00:00"
+      },
+      {
+        "message_id": "12467988-f8b9-42c8-8a9f-02e81b624cf4",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "covid 19",
+        "sources": null,
+        "created_at": "2026-06-24T12:34:29.187183+00:00"
+      },
+      {
+        "message_id": "cf56793b-3b0d-4bb9-978a-fceee665365b",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The provided documents discuss the effects of COVID-19 on higher education, specifically on students' outcomes and expectations. According to the documents, COVID-19 has had a negative impact on students, with 13% of students delaying graduation due to the pandemic. The documents also suggest that the economic and health burden imposed by COVID-19 can explain a significant proportion of the demographic gaps in COVID-19's effect on higher education.",
+        "sources": [
+          {
+            "document": "w27392.pdf",
+            "page": 24
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 15
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 5
+          }
+        ],
+        "created_at": "2026-06-24T12:34:35.852561+00:00"
+      },
+      {
+        "message_id": "65f30cb3-9f7f-4833-b6f6-f1dea01aac3b",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "how to code in python",
+        "sources": null,
+        "created_at": "2026-06-24T12:49:10.328984+00:00"
+      },
+      {
+        "message_id": "5d4bb1ce-835c-4569-bbe0-a33bebfbaa41",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The provided documents offer a guide on how to code in Python 3, covering various topics such as installing Python, setting up a programming environment, writing comments, understanding data types, working with strings, and more. The document \"How To Code in Python 3\" by Lisa Tagliaferri appears to be a comprehensive tutorial series. \n\nTo get started, you can follow the steps outlined in the document, which includes installing Python 3 and setting up a local programming environment on your operating system (Ubuntu 16.04, macOS, Windows 10, or CentOS 7). Then, you can proceed to write your first Python 3 program, work with the Python interactive console, and learn about data types, strings, and other concepts. \n\nFor more specific guidance, you can refer to the various sections and pages in the document, such as Page 5, which outlines the table of contents, or Page 282, which discusses writing Python modules. Additionally, Page 368 covers object-oriented programming concepts, including classes and objects.",
+        "sources": [
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 5
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 282
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 2
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 71
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 368
+          }
+        ],
+        "created_at": "2026-06-24T12:49:14.215199+00:00"
+      },
+      {
+        "message_id": "7acec87b-0bd9-4ed9-b998-f6a922268337",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "python",
+        "sources": null,
+        "created_at": "2026-06-24T12:49:22.904368+00:00"
+      },
+      {
+        "message_id": "d8790d0a-d1ff-42ab-bd55-8785011be21f",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "Python is a very human-readable programming language, allowing for quick comprehension. It is a multi-paradigm language that enables programmers to use the most suitable style to complete a project, including scripting and object-oriented programming. Python can be used as a calculator and is increasingly used in industry. It was authored by Guido van Rossum and first published in 1991.",
+        "sources": [
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 179
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 8
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 11
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 74
+          }
+        ],
+        "created_at": "2026-06-24T12:49:25.735150+00:00"
+      },
+      {
+        "message_id": "439612ba-9e0c-4cbb-a657-66d8b5de7f1f",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "army",
+        "sources": null,
+        "created_at": "2026-06-24T12:50:00.131858+00:00"
+      },
+      {
+        "message_id": "644fbdb1-2db0-4972-8877-7ccfa9440c5b",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The Indian Army is mentioned in the context as an experience of Aaryaman Chauhan, where he worked as a Data Analyst from 12th Jan 2026 to 27th Mar 2026 in the Directorate General of Information Systems. His responsibilities included in-depth data analytics, management, and dashboarding using Zoho Analytics, and large-scale distribution of data to a major section of the Indian Army.",
+        "sources": [
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 455
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 96
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 433
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 312
+          }
+        ],
+        "created_at": "2026-06-24T12:50:02.946691+00:00"
+      },
+      {
+        "message_id": "d8044f8a-bc2c-43f7-bd63-5bcace2c6df9",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "user",
+        "content": "quantity of mouse and keyboard",
+        "sources": null,
+        "created_at": "2026-06-24T12:55:00.992979+00:00"
+      },
+      {
+        "message_id": "3dd86de3-f1d8-47c6-b5a7-bb227144a8d9",
+        "session_id": "8e71af0d-d37b-4c89-b20b-8f846a4cd83f",
+        "role": "assistant",
+        "content": "The quantity of Mouse Wireless is 20 and the quantity of Keyboard Mechanical is 10.",
+        "sources": [
+          {
+            "document": "ocr_test_scanned_document.pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 94
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 194
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 255
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 92
+          }
+        ],
+        "created_at": "2026-06-24T12:55:03.612248+00:00"
+      }
+    ],
+    "04129476-7349-4064-baaf-78f580d6524e": [
+      {
+        "message_id": "f81c1de9-2bb8-4038-a332-f7d229eb1c8f",
+        "session_id": "04129476-7349-4064-baaf-78f580d6524e",
+        "role": "user",
+        "content": "quantity of monitors",
+        "sources": null,
+        "created_at": "2026-06-25T07:16:23.797353+00:00"
+      },
+      {
+        "message_id": "60c864a3-60da-4043-b5a9-eb0df29dbd92",
+        "session_id": "04129476-7349-4064-baaf-78f580d6524e",
+        "role": "assistant",
+        "content": "The quantity of monitors is 3.",
+        "sources": [
+          {
+            "document": "ocr_test_scanned_document.pdf",
+            "page": 1
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 194
+          },
+          {
+            "document": "Aaryaman Chauhan Resume 2026 (1).pdf",
+            "page": 1
+          },
+          {
+            "document": "w27392.pdf",
+            "page": 9
+          },
+          {
+            "document": "how-to-code-in-python-3.pdf",
+            "page": 94
+          }
+        ],
+        "created_at": "2026-06-25T07:16:27.673050+00:00"
+      }
+    ],
+    "566a9963-b4af-4e6b-91c3-895c2d733080": [
+      {
+        "message_id": "3ed5a724-b14d-4163-b121-88e6a4510672",
+        "session_id": "566a9963-b4af-4e6b-91c3-895c2d733080",
+        "role": "user",
+        "content": "explain RAG",
+        "sources": null,
+        "created_at": "2026-06-26T05:52:39.455803+00:00"
+      },
+      {
+        "message_id": "3f7844e6-c317-4e53-b2eb-38b5b21738c8",
+        "session_id": "566a9963-b4af-4e6b-91c3-895c2d733080",
+        "role": "assistant",
+        "content": "Error: No documents found in the knowledge base. Please upload a PDF first from the Documents page.",
+        "sources": null,
+        "created_at": "2026-06-26T05:52:42.357840+00:00"
+      }
+    ],
+    "fbf8bdb1-74a0-4bd0-8b61-37bdb15a1efc": [
+      {
+        "message_id": "e8272b07-b82c-4f73-bcf9-be4b3c20d5e9",
+        "session_id": "fbf8bdb1-74a0-4bd0-8b61-37bdb15a1efc",
+        "role": "user",
+        "content": "C",
+        "sources": null,
+        "created_at": "2026-06-26T06:05:51.694965+00:00"
+      },
+      {
+        "message_id": "e6d3151b-61ac-4d67-9632-ade57e0aaaf3",
+        "session_id": "fbf8bdb1-74a0-4bd0-8b61-37bdb15a1efc",
+        "role": "assistant",
+        "content": "Error: No documents found in the knowledge base. Please upload a PDF first from the Documents page.",
+        "sources": null,
+        "created_at": "2026-06-26T06:05:53.833453+00:00"
+      }
+    ],
+    "d2df8251-8200-48ed-96ca-6a51f99cf1cb": [
+      {
+        "message_id": "60f97c35-aff2-46e3-88a5-7ea1dc1893c5",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "user",
+        "content": "c",
+        "sources": null,
+        "created_at": "2026-06-26T06:27:45.866639+00:00"
+      },
+      {
+        "message_id": "1fb79fdf-9d72-46f9-867f-70993fb99b42",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 718
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 730
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 406
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 171
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 714
+          }
+        ],
+        "created_at": "2026-06-26T06:27:49.719931+00:00"
+      },
+      {
+        "message_id": "366779ae-69ab-41e3-abcf-367e9b8ddf6f",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "user",
+        "content": "C language",
+        "sources": null,
+        "created_at": "2026-06-26T06:27:56.598425+00:00"
+      },
+      {
+        "message_id": "38f685a4-5cc9-49a9-9b84-62ef739681e5",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "assistant",
+        "content": "The C language is a programming language developed at AT & T's Bell Laboratories of USA in 1972 by Dennis Ritchie. It is the preferred choice of programmers due to its ability to closely interact with hardware devices without compromising performance. C language scores over other languages in terms of speed and is used in many popular gaming frameworks. It is also known for its clever use of pointers, which makes it an excellent language.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 19
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 193
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 17
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-26T06:28:01.535151+00:00"
+      },
+      {
+        "message_id": "cd3459ee-b2f0-484b-b189-5cdbc83ed02c",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "user",
+        "content": "c syntax",
+        "sources": null,
+        "created_at": "2026-06-26T06:33:12.618648+00:00"
+      },
+      {
+        "message_id": "4911d588-fe68-43d8-9404-ab5d8e8759fa",
+        "session_id": "d2df8251-8200-48ed-96ca-6a51f99cf1cb",
+        "role": "assistant",
+        "content": "According to the provided context, the following C syntax rules are mentioned:\n\n1. Blank spaces may be inserted between two words to improve readability, but no blank spaces are allowed within a variable, constant, or keyword.\n2. All statements are entered in small case letters.\n3. C has no specific rules for the position at which a statement is to be written, making it a free-form language.\n4. Every C statement must end with a semicolon (;), which acts as a statement terminator.\n\nThese are the only syntax rules mentioned in the provided context. If you're looking for more comprehensive syntax rules, the information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 193
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 16
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 19
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 29
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 17
+          }
+        ],
+        "created_at": "2026-06-26T06:33:15.867000+00:00"
+      }
+    ],
+    "4ddac70f-d709-42c9-a96f-805bf1137807": [
+      {
+        "message_id": "1f98f560-dd8e-41eb-9a0f-92b588d7b61d",
+        "session_id": "4ddac70f-d709-42c9-a96f-805bf1137807",
+        "role": "user",
+        "content": "C SYNTAX",
+        "sources": null,
+        "created_at": "2026-06-26T07:33:50.969883+00:00"
+      },
+      {
+        "message_id": "27c636d7-6d2a-4038-b52b-de3ee1d5f95b",
+        "session_id": "4ddac70f-d709-42c9-a96f-805bf1137807",
+        "role": "assistant",
+        "content": "Error: No documents found in the knowledge base. Please upload a PDF first from the Documents page.",
+        "sources": null,
+        "created_at": "2026-06-26T07:33:57.589097+00:00"
+      }
+    ],
+    "db854ff4-a7a5-433f-9834-4e614bf0e973": [
+      {
+        "message_id": "2d2dee43-c0aa-4035-814f-f21bf0542634",
+        "session_id": "db854ff4-a7a5-433f-9834-4e614bf0e973",
+        "role": "user",
+        "content": "c syntax",
+        "sources": null,
+        "created_at": "2026-06-26T07:38:24.668095+00:00"
+      },
+      {
+        "message_id": "c4f2dbb4-07ba-4d70-8d43-0cc03fc4e1dc",
+        "session_id": "db854ff4-a7a5-433f-9834-4e614bf0e973",
+        "role": "assistant",
+        "content": "According to the provided context, the following C syntax rules are mentioned:\n\n1. Blank spaces may be inserted between two words to improve readability, but no blank spaces are allowed within a variable, constant, or keyword.\n2. All statements are entered in small case letters.\n3. C has no specific rules for the position at which a statement is to be written, making it a free-form language.\n4. Every C statement must end with a semicolon (;), which acts as a statement terminator.\n\nThese are the only syntax rules mentioned in the provided context. If you're looking for more comprehensive syntax rules, the information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 193
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 16
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 19
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 29
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 17
+          }
+        ],
+        "created_at": "2026-06-26T07:38:27.777233+00:00"
+      }
+    ]
+  }
+}

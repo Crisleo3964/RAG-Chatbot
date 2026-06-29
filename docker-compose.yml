@@ -1,0 +1,72 @@
+version: "3.9"
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    healthcheck:
+      test: rabbitmq-diagnostics ping
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rag-network
+
+  rag-chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-chatbot
+    environment:
+      GROQ_API_KEY: ${GROQ_API_KEY}
+      RAG_AUTH_ENABLED: "true"
+      GROQ_MODEL: "llama-3.3-70b-versatile"
+      OLLAMA_BASE_URL: "http://ollama:11434"
+      RABBITMQ_URL: "amqp://guest:guest@rabbitmq:5672/"
+      RAG_TOP_K: "5"
+      RAG_CHUNK_SIZE: "1000"
+      RAG_CHUNK_OVERLAP: "200"
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-change-me-in-production-use-at-least-32-chars!}
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_db:/app/chroma_db
+      - chat_data:/app/data
+      - auth_store:/app/auth_store.json
+      - chat_store:/app/chat_store.json
+      - status_store:/app/status_store.json
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    networks:
+      - rag-network
+    restart: unless-stopped
+
+  # Optional: Ollama service for local embeddings/chat
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama_data:/root/.ollama
+  #   networks:
+  #     - rag-network
+
+volumes:
+  chroma_db:
+  chat_data:
+  auth_store:
+  chat_store:
+  status_store:
+  # ollama_data:
+
+networks:
+  rag-network:
+    driver: bridge

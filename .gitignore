@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+data/*.pdf
+!rag-chatbot/data/sample-text-only-pdf-a4-size.pdf
+rag-chatbot/src/check_embeddings.py
