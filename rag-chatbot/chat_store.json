@@ -405,6 +405,27 @@
       "title": "c syntax",
       "created_at": "2026-06-26T07:38:24.643593+00:00",
       "updated_at": "2026-06-26T07:38:27.777233+00:00"
+    },
+    "6beb536b-02cb-4672-b821-074dc4e7525d": {
+      "session_id": "6beb536b-02cb-4672-b821-074dc4e7525d",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "c",
+      "created_at": "2026-06-29T07:14:24.159045+00:00",
+      "updated_at": "2026-06-29T07:14:42.296338+00:00"
+    },
+    "5701c2e1-13a3-461c-98fa-3d7d1adaa630": {
+      "session_id": "5701c2e1-13a3-461c-98fa-3d7d1adaa630",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "tell me about c",
+      "created_at": "2026-06-29T07:23:31.279984+00:00",
+      "updated_at": "2026-06-29T07:23:35.834820+00:00"
+    },
+    "324b0bb7-e540-4cfa-8f68-0412bb87af59": {
+      "session_id": "324b0bb7-e540-4cfa-8f68-0412bb87af59",
+      "user_id": "64685a3d-bbd3-43d3-9309-f388b561aabd",
+      "title": "c#",
+      "created_at": "2026-06-29T07:32:26.245874+00:00",
+      "updated_at": "2026-06-29T07:32:30.487824+00:00"
     }
   },
   "messages": {
@@ -3151,6 +3172,156 @@
           }
         ],
         "created_at": "2026-06-26T07:38:27.777233+00:00"
+      }
+    ],
+    "6beb536b-02cb-4672-b821-074dc4e7525d": [
+      {
+        "message_id": "de649a59-3c62-4250-b105-5130f6263513",
+        "session_id": "6beb536b-02cb-4672-b821-074dc4e7525d",
+        "role": "user",
+        "content": "c",
+        "sources": null,
+        "created_at": "2026-06-29T07:14:24.181889+00:00"
+      },
+      {
+        "message_id": "2925ae7e-a8c9-4809-b4c8-828d5e1406e0",
+        "session_id": "6beb536b-02cb-4672-b821-074dc4e7525d",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 718
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 730
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 406
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 171
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 714
+          }
+        ],
+        "created_at": "2026-06-29T07:14:28.702469+00:00"
+      },
+      {
+        "message_id": "dac3d7e9-f8a9-4469-a387-cce36119db0e",
+        "session_id": "6beb536b-02cb-4672-b821-074dc4e7525d",
+        "role": "user",
+        "content": "C language",
+        "sources": null,
+        "created_at": "2026-06-29T07:14:39.166805+00:00"
+      },
+      {
+        "message_id": "3645aace-9aeb-4f5b-b869-a32ce1930623",
+        "session_id": "6beb536b-02cb-4672-b821-074dc4e7525d",
+        "role": "assistant",
+        "content": "The C language is a programming language developed at AT & T's Bell Laboratories of USA in 1972 by Dennis Ritchie. It is a preferred choice for programmers due to its ability to closely interact with hardware devices without compromising performance. The language elements of C make it feasible to interact with hardware devices, and it is also used in many popular gaming frameworks. C's clever use of pointers makes it an excellent language.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 19
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 193
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 17
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 20
+          }
+        ],
+        "created_at": "2026-06-29T07:14:42.296338+00:00"
+      }
+    ],
+    "5701c2e1-13a3-461c-98fa-3d7d1adaa630": [
+      {
+        "message_id": "0411128c-7773-4daf-a003-c1592da66a3d",
+        "session_id": "5701c2e1-13a3-461c-98fa-3d7d1adaa630",
+        "role": "user",
+        "content": "tell me about c",
+        "sources": null,
+        "created_at": "2026-06-29T07:23:31.298864+00:00"
+      },
+      {
+        "message_id": "e58827bd-d485-44aa-ba0c-2514cc07b6ee",
+        "session_id": "5701c2e1-13a3-461c-98fa-3d7d1adaa630",
+        "role": "assistant",
+        "content": "C is a programming language developed at AT & T's Bell Laboratories of USA in 1972 by Dennis Ritchie. It is known for its clever use of pointers, which makes it an excellent language. C is capable of handling various types of data, including integers, floats, and characters, and it provides a data type called 'structure' to deal with collections of dissimilar data. C began to replace other languages like PL/I and ALGOL in the late seventies and gained popularity without any advertisement.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 17
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 193
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 378
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 16
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 730
+          }
+        ],
+        "created_at": "2026-06-29T07:23:35.834820+00:00"
+      }
+    ],
+    "324b0bb7-e540-4cfa-8f68-0412bb87af59": [
+      {
+        "message_id": "c7d6c888-b1d2-4bd1-b027-82c5c0bd0b40",
+        "session_id": "324b0bb7-e540-4cfa-8f68-0412bb87af59",
+        "role": "user",
+        "content": "c#",
+        "sources": null,
+        "created_at": "2026-06-29T07:32:26.264786+00:00"
+      },
+      {
+        "message_id": "fcc51aff-5948-482b-8f31-da9df29f6193",
+        "session_id": "324b0bb7-e540-4cfa-8f68-0412bb87af59",
+        "role": "assistant",
+        "content": "The information is not available in the provided documents. The context appears to be related to the C programming language, not C#.",
+        "sources": [
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 19
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 557
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 263
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 111
+          },
+          {
+            "document": "Let us c - yashwantkanetkar.pdf",
+            "page": 646
+          }
+        ],
+        "created_at": "2026-06-29T07:32:30.487824+00:00"
       }
     ]
   }
