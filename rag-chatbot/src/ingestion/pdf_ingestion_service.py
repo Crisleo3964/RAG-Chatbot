@@ -154,7 +154,7 @@ class PdfIngestionService:
                         chunk_id=chunk_id,
                         document_name=document_name,
                         page_number=page_number,
-                        text=chunk_text,
+                        text=f"Title: {document_name}\n{chunk_text}",
                         user_id=user_id,
                     )
                 )
