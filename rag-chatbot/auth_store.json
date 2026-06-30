@@ -40,5 +40,11 @@
     "email": "testuser2@test.com",
     "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$XWG21tu27zJLLTToICWv/Q$8X4hC8t/OCh+Lg7cNo7og+M4NEGJt5kYY/5LNvFKbU4",
     "role": "user"
+  },
+  "5f38fabc-c604-4dc9-8d4c-f520e64aba81": {
+    "user_id": "5f38fabc-c604-4dc9-8d4c-f520e64aba81",
+    "email": "saaquibbegwork@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$NmafPGCV+erCa+1mq7BNSg$C0ELikkXSKvgoRmJQQEOg7tItn8yhBkAfMawfGkFLoc",
+    "role": "user"
   }
 }
