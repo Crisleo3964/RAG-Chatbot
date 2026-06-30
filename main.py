@@ -94,27 +94,11 @@ def _fetch_ngrok_url() -> str | None:
 async def main() -> None:
     _ensure_groq_key()
 
-    _has_rabbitmq = False
-    try:
-        import pika
-        from config import get_settings
-        settings = get_settings()
-        params = pika.URLParameters(settings.rabbitmq_url)
-        params.heartbeat = 5
-        params.blocked_connection_timeout = 3
-        conn = pika.BlockingConnection(params)
-        conn.close()
-        _has_rabbitmq = True
-    except Exception:
-        logger.warning("event=rabbitmq_unavailable worker_disabled async_ingestion_via_api_unavailable")
-
-    worker = None
-    if _has_rabbitmq:
-        worker = multiprocessing.Process(target=_start_worker, daemon=True, name="ingestion-worker")
-        worker.start()
-        logger.info("event=worker_started pid=%s", worker.pid)
-        watcher = threading.Thread(target=_worker_watcher, args=(worker,), daemon=True, name="worker-watcher")
-        watcher.start()
+    worker = multiprocessing.Process(target=_start_worker, daemon=True, name="ingestion-worker")
+    worker.start()
+    logger.info("event=worker_started pid=%s", worker.pid)
+    watcher = threading.Thread(target=_worker_watcher, args=(worker,), daemon=True, name="worker-watcher")
+    watcher.start()
 
     import uvicorn
     config = uvicorn.Config("main:app", host=_HOST, port=_PORT, log_level="info")
