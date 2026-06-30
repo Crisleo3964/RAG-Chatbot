@@ -4,7 +4,6 @@ import asyncio
 import logging
 import shutil
 import uuid
-from datetime import datetime, timezone
 from pathlib import Path
 
 from fastapi import APIRouter, Depends, HTTPException, UploadFile
@@ -63,85 +62,50 @@ async def ingest_pdf(
     with dest.open("wb") as buffer:
         shutil.copyfileobj(file.file, buffer)
 
-    uploaded_at = datetime.now(timezone.utc).isoformat()
+    status_store.set_status(
+        document_id,
+        DocumentStatus.PROCESSING,
+        file_name=safe_name,
+        user_id=current_user.user_id,
+    )
 
-    from messaging.publisher import publish_ingestion_task
+    async def _process() -> None:
+        try:
+            chunk_count = await asyncio.to_thread(
+                ingestion_service.ingest_file, dest,
+                user_id=current_user.user_id, document_name=safe_name,
+            )
+            status_store.set_status(
+                document_id,
+                DocumentStatus.COMPLETED,
+                file_name=safe_name,
+                user_id=current_user.user_id,
+                chunks_created=chunk_count,
+            )
+            logger.info(
+                "event=ingestion_completed document_id=%s chunks=%s",
+                document_id, chunk_count,
+            )
+        except Exception as err:
+            logger.error(
+                "event=ingestion_failed document_id=%s error=%s",
+                document_id, err,
+            )
+            status_store.set_status(
+                document_id,
+                DocumentStatus.FAILED,
+                file_name=safe_name,
+                user_id=current_user.user_id,
+                error=f"Ingestion failed: {err}",
+            )
 
-    try:
-        publish_ingestion_task(
-            document_id=document_id,
-            file_path=str(dest.resolve()),
-            uploaded_at=uploaded_at,
-            user_id=current_user.user_id,
-        )
-        status_store.set_status(
-            document_id,
-            DocumentStatus.PENDING,
-            file_name=safe_name,
-            user_id=current_user.user_id,
-        )
-        logger.info(
-            "event=ingestion_queued document_id=%s file_name=%s user=%s",
-            document_id,
-            safe_name,
-            current_user.user_id,
-        )
-        return IngestAcceptedResponse(
-            document_id=document_id,
-            file_name=safe_name,
-            status=DocumentStatus.PENDING.value,
-            user_id=current_user.user_id,
-        )
-    except Exception:
-        logger.warning(
-            "event=ingestion_fallback_to_inline document_id=%s file_name=%s",
-            document_id,
-            safe_name,
-        )
-        status_store.set_status(
-            document_id,
-            DocumentStatus.PROCESSING,
-            file_name=safe_name,
-            user_id=current_user.user_id,
-        )
-
-        async def _process_inline() -> None:
-            try:
-                chunk_count = await asyncio.to_thread(
-                    ingestion_service.ingest_file, dest,
-                    user_id=current_user.user_id, document_name=safe_name,
-                )
-                status_store.set_status(
-                    document_id,
-                    DocumentStatus.COMPLETED,
-                    file_name=safe_name,
-                    user_id=current_user.user_id,
-                    chunks_created=chunk_count,
-                )
-                logger.info(
-                    "event=ingestion_inline_completed document_id=%s chunks=%s",
-                    document_id, chunk_count,
-                )
-            except Exception as inline_err:
-                logger.error(
-                    "event=ingestion_inline_failed document_id=%s error=%s",
-                    document_id, inline_err,
-                )
-                status_store.set_status(
-                    document_id,
-                    DocumentStatus.FAILED,
-                    file_name=safe_name,
-                    user_id=current_user.user_id,
-                    error=f"Inline processing failed: {inline_err}",
-                )
-
-        asyncio.create_task(_process_inline())
-        return IngestAcceptedResponse(
-            document_id=document_id,
-            file_name=safe_name,
-            status=DocumentStatus.PROCESSING.value,
-            user_id=current_user.user_id,
-        )
+    asyncio.create_task(_process())
+    return IngestAcceptedResponse(
+        document_id=document_id,
+        file_name=safe_name,
+        status=DocumentStatus.PROCESSING.value,
+        user_id=current_user.user_id,
+    )
 
 
 @router.get(
